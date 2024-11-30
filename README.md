@@ -5,17 +5,20 @@
 
 ---
 
-<div align="center">
-  <img align="right" src="[https://cdn.dribbble.com/users/116207...](https://mega.nz/file/p44CUZaT#lfuVJxQM62wV3U16M71PdmiK1IT3qUGe-ysywbBjiq4)" alt="Coding" width="200" height="200" style="border-radius: 50%; margin: 10px;">
+<div align="left">
+ <img align="right" src="https://github.com/Hifza-Khalid/C-Projects/blob/main/Coding.gif" 
+     alt="Coding" width="300" height="300" 
+     style="border-radius: 50%; margin: 10px;">
   <ul>
-    <li>🔭 **Currently Working On:** Online Books Website 📚</li>
-    <li>👯 **Open to Collaborate:** Innovative Web Development Projects 🌐</li>
-    <li>🤝 **Seeking Support With:** Scaling Impactful Tech Solutions 🚀</li>
-    <li>💬 **Ask Me About:** Web Technologies, UI/UX Design, Frontend Frameworks 🛠️</li>
-    <li>📫 **Reach Me At:** hifzaofpk@gmail.com</li>
-    <li>⚡ **Fun Fact:** Every line of code is a brushstroke creating a masterpiece! 🎨</li>
+    <li><b>🔭 Currently Working On:</b> Online Books Website 📚</li>
+    <li><b>👯 Open to Collaborate:</b> Innovative Web Development Projects 🌐</li>
+    <li><b>🤝 Seeking Support With:</b> Scaling Impactful Tech Solutions 🚀</li>
+    <li><b>💬 Ask Me About:</b> Web Technologies, UI/UX Design, Frontend Frameworks 🛠️</li>
+    <li><b>📫 Reach Me At:</b> hifzaofpk@gmail.com</li>
+    <li><b>⚡ Fun Fact:</b> Every line of code is a brushstroke creating a masterpiece! 🎨</li>
   </ul>
 </div>
+
 
 ---
 
