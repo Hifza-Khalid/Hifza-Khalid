@@ -85,8 +85,9 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hifza-Khalid&color=blue&style=flat-square" alt="Profile Views" />
 </p>
+
 
 ---
 
