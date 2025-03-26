@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch Daily Quote
         run: |
-          curl -s https://api.quotable.io/random?tags=motivational | jq -r '.[0].q + " - " + .[0].a' > quote.txt
+          curl -s https://zenquotes.io/api/random | jq -r '.[0].q + " - " + .[0].a' > quote.txt
 
       - name: Update README
         run: |
