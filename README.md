@@ -28,11 +28,16 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 </div>
 
 ---
+# 📄 Blog Posts
 
-### 📄 Blog Posts
+Welcome to my tech blog! Here, you'll find insightful articles on a variety of topics related to technology, programming, AI, and more. Stay tuned as more posts are coming soon!
+
 <!-- BLOG-POST-LIST:START -->
-- Coming soon... stay tuned for insightful tech blogs!
+- Coming soon... Stay tuned for insightful tech blogs! 
+[![Visit my Blog](https://img.shields.io/badge/Visit%20My%20Blog-Tech%20Insights-blue?logo=book&logoColor=white)](https://techinsightswithhifza.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
+
+
 
 ### 📜 Daily Quote
 
@@ -49,28 +54,93 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
   <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,eclipse,ps,ai,blender" alt="tools" />
 </p>
 <hr>
-<h3 align="center">  🚀 Skills & Technologies </h3>
 
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
- 
-</p>
+<h3 align="center"> 🚀 Skills & Technologies </h3>
 
 
----
+</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Python" width="48" height="48" />
+      <br>REST
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" /></a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" /></a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" /></a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" /></a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48" /></a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="48" height="48" /></a>
+      <br>Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48" /></a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" height="48" /></a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL" width="48" height="48" /></a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" /></a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="48" height="48" /></a>
+      <br>MariaDB
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /></a>
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+<hr>
 <h2 align="center"> 📄⭐ Documentation Expertise </h2>
 
 <p align="left">
@@ -82,19 +152,20 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
   🔍 API Documentation<br><br>
 </p>
 <hr>
+<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); width: 100%; max-width: 800px;">
 
-### 📈 GitHub Stats
-<p align="center" style="background-color: #FFEDDB; padding: 10px; border-radius: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hifza-khalid&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  <!-- GitHub Stats (Light theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hifza-khalid&show_icons=true&locale=en&theme=light" alt="GitHub Stats" style="border-radius: 12px; margin-bottom: 20px;"/>
 
-<p align="center" style="background-color: #D9E8FF; padding: 10px; border-radius: 8px;">
+  <!-- Most Used Languages (Light theme) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifza-khalid&layout=compact&theme=light&langs_count=6" alt="Most Used Languages" style="border-radius: 12px; margin-bottom: 20px;" />
+
+ <p align="center" style="background-color: #D9E8FF; padding: 10px; border-radius: 8px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hifza-khalid" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hifza-Khalid&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+</div>
+
 ---
 
 ## 📌 Developer Productivity Snippets
@@ -109,15 +180,34 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 </p>
 
 ---
-
-
 ### 🌐 Let's Connect!
-<p align="left">
-  <a href="https://codepen.io/hifza-the-lessful" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+
+<p align="center">
+   <a href="https://codepen.io/hifza-the-lessful" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/hifza-khalid/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/24710539" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/hifza786" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
   <a href="https://www.instagram.com/hifzaofpk/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://medium.com/@hifzaofpk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+</p>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Hifza-Khalid&color=brightgreen)
+
+
+
+<hr>
+
+  <h3 style="color: #333333; font-size: 24px; margin-bottom: 15px; font-weight: 600;">
+  Thanks for visiting!👋
+</h3>
+
+<p style="color: #555555; font-size: 18px; font-style: italic; margin-bottom: 20px;">
+  _Feel free to star ⭐ some repositories if you find them interesting!_
+</p>
+
+<p align="center">
+  <a href="https://github.com/hifza-khalid" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-%234CAF50.svg?style=for-the-badge&logo=github" alt="Explore My Repositories" />
+  </a>
 </p>
 
