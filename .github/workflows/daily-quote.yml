@@ -2,38 +2,36 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual execution
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
-
     steps:
+      - name: Set up job
+        run: echo "Starting daily quote update..."
+
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Fetch Daily Quote
         run: |
           curl -s https://api.quotable.io/random?tags=technology | jq -r '.content + " - " + .author' > quote.txt
-          cat quote.txt || echo "No quote found"
+          cat quote.txt
 
       - name: Debug Quote Output
         run: cat quote.txt
 
       - name: Update README
         run: |
-          QUOTE=$(cat quote.txt)
-          echo "Fetched Quote: $QUOTE"  # Debugging step
-          awk -v quote="$QUOTE" '/<!-- QUOTE-START -->/{print; print quote; next} /<!-- QUOTE-END -->/{print; next} 1' README.md > temp.md && mv temp.md README.md
+          sed -i "/<!-- QUOTE START -->/,/<!-- QUOTE END -->/c\<!-- QUOTE START -->\n$(cat quote.txt)\n<!-- QUOTE END -->" README.md
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git pull --rebase
-          git status
-          git diff --quiet && echo "No changes detected" && exit 0
           git add README.md
-          git commit -m "Updated daily quote"
+          git commit -m "Updated daily quote" || echo "No changes to commit"
+          git pull --rebase --autostash
           git push
