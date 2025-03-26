@@ -79,7 +79,7 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 
 <!-- QUOTE-START -->
 
-
+Everything you've ever wanted is on the other side of fear. - George Addair
 
 <!-- QUOTE-END -->
 
