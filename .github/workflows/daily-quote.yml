@@ -2,36 +2,33 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Set up job
-        run: echo "Starting daily quote update..."
+    - name: Checkout Repository
+      uses: actions/checkout@v3
 
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+    - name: Fetch Daily Quote
+      run: |
+        curl -s https://api.quotable.io/random?tags=technology | jq -r '.content + " - " + .author' | tee quote.txt
 
-      - name: Fetch Daily Quote
-        run: |
-          curl -s https://api.quotable.io/random?tags=technology | jq -r '.content + " - " + .author' > quote.txt
-          cat quote.txt
+    - name: Debug Quote Output
+      run: cat quote.txt  # Print the quote in GitHub Actions logs
 
-      - name: Debug Quote Output
-        run: cat quote.txt
+    - name: Update README
+      run: |
+        sed -i '/<!--QUOTE_START-->/, /<!--QUOTE_END-->/c\<!--QUOTE_START-->\n'"$(cat quote.txt)"'\n<!--QUOTE_END-->' README.md
 
-      - name: Update README
-        run: |
-          sed -i "/<!-- QUOTE START -->/,/<!-- QUOTE END -->/c\<!-- QUOTE START -->\n$(cat quote.txt)\n<!-- QUOTE END -->" README.md
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Updated daily quote" || echo "No changes to commit"
-          git pull --rebase --autostash
-          git push
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git commit -m "Updated daily quote"
+        git pull --rebase
+        git push
