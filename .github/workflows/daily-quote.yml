@@ -1,0 +1,29 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once a day at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Daily Quote
+        run: |
+          curl -s https://zenquotes.io/api/random | jq -r '.[0].q + " - " + .[0].a' > quote.txt
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- QUOTE-START -->/,/<!-- QUOTE-END -->/c\<!-- QUOTE-START -->\n\n'"$(cat quote.txt)"'\n\n<!-- QUOTE-END -->' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated daily quote"
+          git push
