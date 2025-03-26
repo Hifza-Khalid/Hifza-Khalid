@@ -79,7 +79,7 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 
 <!-- QUOTE-START -->
 
-Loading...
+
 
 <!-- QUOTE-END -->
 
