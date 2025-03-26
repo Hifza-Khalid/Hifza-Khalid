@@ -95,9 +95,21 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hifza-Khalid&color=blue&style=flat-square" alt="Profile Views" />
 </p>
+---
 
+## 📌 Developer Productivity Snippets
+<p align="center">
+  🚀 Explore some of my handy productivity snippets to boost your workflow!  
+</p>
+
+<p align="center">
+  <a href="https://gist.github.com/Hifza-Khalid/52e4a7faa1d708e6d3540bc6499a141b" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Snippets-%2300C4CC.svg?style=for-the-badge&logo=github" alt="Developer Productivity Snippets">
+  </a>
+</p>
 
 ---
+
 
 ### 🌐 Let's Connect!
 <p align="left">
