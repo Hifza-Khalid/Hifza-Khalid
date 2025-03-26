@@ -2,8 +2,8 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once a day at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs once a day at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update-quote:
@@ -14,21 +14,16 @@ jobs:
 
       - name: Fetch Daily Quote
         run: |
-          curl -s "https://api.quotable.io/random?tags=technology" | jq -r '.content + " - " + .author' > quote.txt
-
-      - name: Debug Quote Output
-        run: cat quote.txt
+          curl -s https://api.quotable.io/random?tags=technology | jq -r '.content + " - " + .author' > quote.txt
 
       - name: Update README
         run: |
-          QUOTE=$(cat quote.txt)
-          echo "Updating README with: $QUOTE"
-          sed -i '/<!-- QUOTE-START -->/,/<!-- QUOTE-END -->/c\<!-- QUOTE-START -->\n\n'"$QUOTE"'\n\n<!-- QUOTE-END -->' README.md
+          sed -i '/<!-- QUOTE-START -->/,/<!-- QUOTE-END -->/c\<!-- QUOTE-START -->\n\n'"$(cat quote.txt)"'\n\n<!-- QUOTE-END -->' README.md
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add README.md quote.txt
-          git diff --cached --quiet || git commit -m "Updated daily quote"
+          git add README.md
+          git commit -m "Updated daily quote" || echo "No changes to commit"
           git push
