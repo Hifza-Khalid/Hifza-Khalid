@@ -77,7 +77,7 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 
 <!-- QUOTE-START -->
 
-What is a friend? A single soul dwelling in two bodies. - Aristotle
+
 
 <!-- QUOTE-END -->
 
