@@ -15,20 +15,22 @@ jobs:
 
     - name: Fetch Daily Motivational Quote
       run: |
-        curl -s https://api.quotable.io/random?tags=motivational | jq -r '.content + " - " + .author' > quote.txt
+        QUOTE=$(curl -s https://api.quotable.io/random?tags=motivational | jq -r '.content + " - " + .author')
+        echo "$QUOTE" > quote.txt
 
     - name: Debug Quote Output
-      run: cat quote.txt  # Print quote in logs for debugging
+      run: cat quote.txt  # Print the fetched quote in logs for debugging
 
     - name: Update README
       run: |
-        sed -i '/<!--QUOTE_START-->/, /<!--QUOTE_END-->/c\<!--QUOTE_START-->\n'"$(cat quote.txt)"'\n<!--QUOTE_END-->' README.md
+        TIMESTAMP=$(date)
+        sed -i '/<!--QUOTE_START-->/, /<!--QUOTE_END-->/c\<!--QUOTE_START-->\n'"$(cat quote.txt)"'\n_Last updated: '"$TIMESTAMP"'_\n<!--QUOTE_END-->' README.md
 
     - name: Commit and Push Changes
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "actions@github.com"
         git add README.md
-        git commit -m "Updated daily motivational quote"
+        git commit -m "Updated daily motivational quote" || echo "No changes to commit"
         git pull --rebase
-        git push
+        git push || echo "Nothing to push, no new changes"
