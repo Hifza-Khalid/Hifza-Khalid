@@ -75,9 +75,11 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 </p>
 <hr>
 
+## 📜 Daily Quote
+
 <!-- QUOTE-START -->
 
-
+Loading...
 
 <!-- QUOTE-END -->
 
