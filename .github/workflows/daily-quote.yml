@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch Daily Quote
         run: |
-          curl -s https://programming-quotes-api.herokuapp.com/quotes/random | jq -r '.en + " - " + .author' > quote.txt
+         curl -s https://api.quotable.io/random?tags=technology | jq -r '.content + " - " + .author' > quote.txt
 
       - name: Update README
         run: |
