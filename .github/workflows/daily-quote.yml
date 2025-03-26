@@ -3,7 +3,7 @@ name: Update Daily Quote
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   update-quote:
@@ -15,10 +15,10 @@ jobs:
 
     - name: Fetch Daily Quote
       run: |
-        curl -s https://api.quotable.io/random?tags=technology | jq -r '.content + " - " + .author' | tee quote.txt
+        curl -s https://nodejs-quoteapp.herokuapp.com/quote | jq -r '.quote + " - " + .author' > quote.txt
 
     - name: Debug Quote Output
-      run: cat quote.txt  # Print the quote in GitHub Actions logs
+      run: cat quote.txt  # Print quote in logs
 
     - name: Update README
       run: |
