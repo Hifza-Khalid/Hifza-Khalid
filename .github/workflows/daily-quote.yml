@@ -2,7 +2,7 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once a day at midnight UTC
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -24,6 +24,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git pull --rebase  # ✅ Fetch latest changes before pushing
           git add README.md
           git commit -m "Updated daily quote" || echo "No changes to commit"
           git push
