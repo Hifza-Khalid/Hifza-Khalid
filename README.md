@@ -75,6 +75,11 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 </p>
 <hr>
 
+<!-- QUOTE-START -->
+"Your daily quote will appear here!"
+<!-- QUOTE-END -->
+
+
 ### 📈 GitHub Stats
 <p align="center" style="background-color: #FFEDDB; padding: 10px; border-radius: 8px;">
   <img src="https://github-readme-stats.vercel.app/api?username=hifza-khalid&show_icons=true&locale=en" alt="GitHub Stats" />
