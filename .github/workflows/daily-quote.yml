@@ -1,36 +1,36 @@
-name: Update Daily Quote
+name: Update Daily Motivational Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # Prevents conflicts
 
-    - name: Fetch Daily Motivational Quote
-      run: |
-        QUOTE=$(curl -s https://api.quotable.io/random?tags=motivational | jq -r '.content + " - " + .author')
-        echo "$QUOTE" > quote.txt
+      - name: Fetch Daily Motivational Quote
+        run: |
+          curl -s https://api.quotable.io/random?tags=motivational | jq -r '.content + " - " + .author' > quote.txt
 
-    - name: Debug Quote Output
-      run: cat quote.txt  # Print the fetched quote in logs for debugging
+      - name: Debug Quote Output
+        run: cat quote.txt  # Prints the quote in logs for debugging
 
-    - name: Update README
-      run: |
-        TIMESTAMP=$(date)
-        sed -i '/<!--QUOTE_START-->/, /<!--QUOTE_END-->/c\<!--QUOTE_START-->\n'"$(cat quote.txt)"'\n_Last updated: '"$TIMESTAMP"'_\n<!--QUOTE_END-->' README.md
+      - name: Update README
+        run: |
+          sed -i "/<!-- QUOTE START -->/,/<!-- QUOTE END -->/c\<!-- QUOTE START -->\n$(cat quote.txt)\n<!-- QUOTE END -->" README.md
 
-    - name: Commit and Push Changes
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "actions@github.com"
-        git add README.md
-        git commit -m "Updated daily motivational quote" || echo "No changes to commit"
-        git pull --rebase
-        git push || echo "Nothing to push, no new changes"
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add quote.txt README.md
+          git commit -m "Updated daily motivational quote" || echo "No changes to commit"
+          git pull --rebase --autostash
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main || git push --force
