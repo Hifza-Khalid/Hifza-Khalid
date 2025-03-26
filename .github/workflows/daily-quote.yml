@@ -24,6 +24,5 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Updated daily quote"
-          git push
+          git add README.md quote.txt
+          git diff --cached --quiet || (git commit -m "Updated daily quote" && git push origin main)
