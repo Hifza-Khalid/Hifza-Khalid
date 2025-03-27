@@ -234,7 +234,12 @@ Every man desires to live long, but no man wishes to be old. - Jonathan Swift
   </a>
 </p>
 
+## 🌟 My Favorite VS Code Extensions  
+I’ve curated a list of my go-to VS Code extensions to boost productivity and streamline development. [<img src="https://img.shields.io/badge/My%20VS%20Code%20Extensions-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" alt="My VS Code Extensions" />](https://gist.github.com/Hifza-Khalid/9d19d1d7c04135334c3aaf69867e28fb)
+
+
 ---
+
 ### 🌐 Let's Connect!
 
 <p align="center">
