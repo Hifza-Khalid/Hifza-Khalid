@@ -251,20 +251,30 @@ I’ve curated a list of my go-to VS Code extensions to boost productivity and s
   <a href="https://medium.com/@hifzaofpk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Hifza-Khalid&color=brightgreen)
-
 
 
 <hr>
+<div align="center">
+<a href="mailto:hifzaofpk@gmail.com">
+  <img src="https://img.shields.io/badge/Mail%20Me-%236A1B9A.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Me" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-%239C27B0.svg?style=for-the-badge&logo=firefox" alt="Visit Portfolio" />
+</a>
 
-  <h3 style="color: #333333; font-size: 24px; margin-bottom: 15px; font-weight: 600;">
-  Thanks for visiting!👋
-</h3>
 
-<p style="color: #555555; font-size: 18px; font-style: italic; margin-bottom: 20px;">
-  _Feel free to star ⭐ some repositories if you find them interesting!_
-</p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Hifza-Khalid&color=brightgreen)
+
+</div>
+
+<div align="center">
+  
+### Thanks for visiting!👋
+
+_Feel free to star ⭐ some repositories if you find them interesting!_
+
+</div>
 <p align="center">
   <a href="https://github.com/hifza-khalid" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-%234CAF50.svg?style=for-the-badge&logo=github" alt="Explore My Repositories" />
