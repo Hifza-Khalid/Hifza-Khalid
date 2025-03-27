@@ -151,23 +151,61 @@ Every man desires to live long, but no man wishes to be old. - Jonathan Swift
 </table>
 
 <hr>
-<h2 align="center"> 📄⭐ Documentation Expertise </h2>
+
+<h2 align="center"> 🎨 Mastering the Art of Documentation </h2>
 
 <div align="left">
-  <img align="right" src="https://github.com/Hifza-Khalid/Hifza-Khalid/blob/main/coding.gif" 
-       alt="Documentation" width="280" height="280" 
+  <img align="right" src="https://github.com/Hifza-Khalid/Hifza-Khalid/blob/main/coding.gif"  
+       alt="Documentation" width="400" height="400"  
        style="border-radius: 50%; margin: 10px; object-fit: cover;">
-  <p>
-    📑 Software Requirement Specification (SRS)<br><br>
-    🖥️ Software Design Documents<br><br>
-    📝 Technical Articles<br><br>
-    💼 Technical Reports<br><br>
-    📜 UML Diagrams<br><br>
-    🔍 API Documentation<br><br>
-  </p>
+  
+  <p>Bridging the gap between <strong>ideas and execution</strong> with well-structured, insightful, and developer-friendly documentation.</p>
+
+  <table align="center">
+    <tr>
+      <th>📌 Skill</th>
+      <th>⭐ Rating</th>
+    </tr>
+    <tr>
+      <td><strong>Software Requirement Specifications (SRS)</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>Software Architecture & Design Docs</strong></td>
+      <td>⭐⭐⭐⭐☆</td>
+    </tr>
+    <tr>
+      <td><strong>Technical Writing & Knowledge Base</strong></td>
+      <td>⭐⭐⭐☆☆</td>
+    </tr>
+    <tr>
+      <td><strong>UML & System Diagrams</strong></td>
+      <td>⭐⭐⭐⭐☆</td>
+    </tr>
+  </table>
+
+  <h3 > 🔄 Currently Learning </h3>
+
+  <table align="center">
+    <tr>
+      <th>🚀 Skill</th>
+      <th>⭐ Progress</th>
+    </tr>
+    <tr>
+      <td><strong>API Documentation & OpenAPI Standards</strong></td>
+      <td>⭐⭐☆☆☆</td>
+    </tr>
+    <tr>
+      <td><strong>Agile Documentation & Confluence</strong></td>
+      <td>⭐⭐☆☆☆</td>
+    </tr>
+  </table>
 </div>
 
 <hr>
+
+
+
 
 <div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); width: 100%; max-width: 800px;">
 
