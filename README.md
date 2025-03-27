@@ -16,9 +16,11 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 ---
 <h3 align="center"> 🔥 Highlights </h3>
 <div align="left">
-  <img align="right" src="https://github.com/Hifza-Khalid/C-Projects/blob/main/Coding.gif" alt="Coding" width="250" height="250" style="border-radius: 50%; margin: 10px;">
+  <img align="right" src="https://github.com/Hifza-Khalid/C-Projects/blob/main/Coding.gif" 
+       alt="Coding" width="230" height="230" 
+       style="border-radius: 50%; margin: 10px; object-fit: cover;">
   <ul>
-    <li><b>🔭 Currently Working On:</b> SuperiorWay App in flutter 📚</li>
+    <li><b>🔭 Currently Working On:</b> SuperiorWay App in Flutter 📚</li>
     <li><b>👯 Open to Collaborate:</b> Innovative Web Development Projects 🌐</li>
     <li><b>🤝 Seeking Support With:</b> Scaling Impactful Tech Solutions 🚀</li>
     <li><b>💬 Ask Me About:</b> Web Technologies, UI/UX Design, Frontend Frameworks 🛠️</li>
@@ -27,15 +29,23 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
   </ul>
 </div>
 
+</div>
+
 ---
 # 📄 Blog Posts
 
 Welcome to my tech blog! Here, you'll find insightful articles on a variety of topics related to technology, programming, AI, and more. Stay tuned as more posts are coming soon!
 
 <!-- BLOG-POST-LIST:START -->
-- Coming soon... Stay tuned for insightful tech blogs! 
-[![Visit my Blog](https://img.shields.io/badge/Visit%20My%20Blog-Tech%20Insights-blue?logo=book&logoColor=white)](https://techinsightswithhifza.blogspot.com/)
+- Coming soon... Stay tuned for insightful tech blogs!  
+
+<p>
+  <a href="https://techinsightswithhifza.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Tech%20Insights-blue?logo=book&logoColor=white" alt="Visit my Blog">
+  </a>
+</p>
 <!-- BLOG-POST-LIST:END -->
+
 
 
 
