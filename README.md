@@ -43,7 +43,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-- Everything you've ever wanted is on the other side of fear. - George Addair
+Every man desires to live long, but no man wishes to be old. - Jonathan Swift
 
 <!-- QUOTE-END -->
 
