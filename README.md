@@ -16,9 +16,9 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 ---
 <h3 align="center"> 🔥 Highlights </h3>
 <div align="left">
-  <img align="right" src="https://github.com/Hifza-Khalid/C-Projects/blob/main/Coding.gif" 
-       alt="Coding" width="230" height="230" 
-       style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <img align="right" src="https://github.com/Hifza-Khalid/Hifza-Khalid/blob/main/octocat.gif" 
+       alt="Coding" width="260" height="230" 
+       style="border-radius: 50%; margin: 8px; object-fit: cover;">
   <ul>
     <li><b>🔭 Currently Working On:</b> SuperiorWay App in Flutter 📚</li>
     <li><b>👯 Open to Collaborate:</b> Innovative Web Development Projects 🌐</li>
@@ -153,15 +153,22 @@ Every man desires to live long, but no man wishes to be old. - Jonathan Swift
 <hr>
 <h2 align="center"> 📄⭐ Documentation Expertise </h2>
 
-<p align="left">
-  📑 Software Requirement Specification (SRS)<br><br>
-  🖥️ Software Design Documents<br><br>
-  📝 Technical Articles<br><br>
-  💼 Technical Reports<br><br>
-  📜 UML Diagrams<br><br>
-  🔍 API Documentation<br><br>
-</p>
+<div align="left">
+  <img align="right" src="https://github.com/Hifza-Khalid/Hifza-Khalid/blob/main/coding.gif" 
+       alt="Documentation" width="280" height="280" 
+       style="border-radius: 50%; margin: 10px; object-fit: cover;">
+  <p>
+    📑 Software Requirement Specification (SRS)<br><br>
+    🖥️ Software Design Documents<br><br>
+    📝 Technical Articles<br><br>
+    💼 Technical Reports<br><br>
+    📜 UML Diagrams<br><br>
+    🔍 API Documentation<br><br>
+  </p>
+</div>
+
 <hr>
+
 <div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); width: 100%; max-width: 800px;">
 
   <!-- GitHub Stats (Light theme) -->
