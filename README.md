@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Every man desires to live long, but no man wishes to be old. - Jonathan Swift
+Anger exceeding limits causes fear and excessive kindness eliminates respect. - Euripides
 
 <!-- QUOTE-END -->
 
