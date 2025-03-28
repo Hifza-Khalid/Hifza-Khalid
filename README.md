@@ -34,8 +34,7 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 ---
 # 📄 Blog Posts
 
-Welcome to my tech blog! Here, you'll find insightful articles on a variety of topics related to technology, programming, AI, and more. Stay tuned as more posts are coming soon!
-
+Welcome to my tech blog! Here, you'll find insightful articles on a variety of topics related to technology, programming, AI, and more.
 <!-- BLOG-POST-LIST:START -->
 - Coming soon... Stay tuned for insightful tech blogs!  
 
