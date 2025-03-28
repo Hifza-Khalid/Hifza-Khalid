@@ -214,7 +214,7 @@ Anger exceeding limits causes fear and excessive kindness eliminates respect. - 
   <!-- Most Used Languages (Light theme) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifza-khalid&layout=compact&theme=light&langs_count=6" alt="Most Used Languages" style="border-radius: 12px; margin-bottom: 20px;" />
 
- <p align="center" style="background-color: #D9E8FF; padding: 10px; border-radius: 8px;">
+ <p align="center" style="background-color: #D9E8FF; padding: 10px; border-radius: 9px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hifza-khalid" alt="GitHub Streak" />
 </p>
 
