@@ -228,7 +228,7 @@ The important thing is not what one is born with but what use one makes of that 
 </p>
 
 <p align="center">
-  <a href="https://gist.github.com/Hifza-Khalid/52e4a7faa1d708e6d3540bc6499a141b" target="_blank">
+  <a href="https://gist.github.com/Hifza-Khalid/217dcd1ff55d2366ae1b7d0a686c0fda" target="_blank">
     <img src="https://img.shields.io/badge/View%20Snippets-%2300C4CC.svg?style=for-the-badge&logo=github" alt="Developer Productivity Snippets">
   </a>
 </p>
