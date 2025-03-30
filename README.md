@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The important thing is not what one is born with but what use one makes of that equipment. - Alfred Adler
+Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.  - Martin Luther
 
 <!-- QUOTE-END -->
 
