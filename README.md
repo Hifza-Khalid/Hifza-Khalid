@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.  - Martin Luther
+The positive thinker sees the invisible, feels the intangible, and achieves the impossible. - Winston Churchill
 
 <!-- QUOTE-END -->
 
