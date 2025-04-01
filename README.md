@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The positive thinker sees the invisible, feels the intangible, and achieves the impossible. - Winston Churchill
+The whole is greater than the sum of its parts. - Aristotle
 
 <!-- QUOTE-END -->
 
