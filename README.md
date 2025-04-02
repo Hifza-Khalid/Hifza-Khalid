@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Hifza-Khalid/C-Projects/main/Github_Banner.gif" alt="Github Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Hifza Khalid</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">,, I'm Hifza Khalid</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Frontend+Developer+👨‍💻;Web+Technologies+Expert+🌐;UI/UX+Designer+🎨;React+Developer+⚛️;Machine+Learning+Enthusiast+🤖;Always+learning+new+tech!+📚">
 </p>
@@ -64,7 +64,10 @@ You don't have to control your thoughts; you just have to stop letting them cont
 </p>
 <hr>
 
-<h3 align="center"> 🚀 Skills & Technologies </h3>
+<h3 align="center"> 
+  <img src="https://media0.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=5a38a5a2pzj9k3nrm3rm52km7k6dt19kjoyahykzf71a4g2r&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/>
+  Skills & Technologies 
+</h3>
 
 
 </div>
