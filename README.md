@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The whole is greater than the sum of its parts. - Aristotle
+You don't have to control your thoughts; you just have to stop letting them control you. - Dan Millman
 
 <!-- QUOTE-END -->
 
