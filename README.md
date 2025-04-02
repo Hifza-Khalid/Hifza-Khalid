@@ -238,6 +238,16 @@ I’ve curated a list of my go-to VS Code extensions to boost productivity and s
 
 
 ---
+# 🚀 GitHub Wrapped 2024 
+
+<details>
+  <summary>📌 Click to view GitHub Wrapped 2024 📊</summary>
+
+  ![📈 GitHub Wrapped 2024](https://raw.githubusercontent.com/Hifza-Khalid/Hifza-Khalid/main/github-wrapped.png)
+
+</details>
+
+
 
 ### 🌐 Let's Connect!
 
