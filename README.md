@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You don't have to control your thoughts; you just have to stop letting them control you. - Dan Millman
+Do one thing every day that scares you. - Eleanor Roosevelt
 
 <!-- QUOTE-END -->
 
