@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do one thing every day that scares you. - Eleanor Roosevelt
+To know your Enemy, you must become your Enemy. - Sun Tzu
 
 <!-- QUOTE-END -->
 
