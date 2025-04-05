@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-To know your Enemy, you must become your Enemy. - Sun Tzu
+The divine is not something high above us. It is in heaven, it is in earth, it is inside us. - Morihei Ueshiba
 
 <!-- QUOTE-END -->
 
