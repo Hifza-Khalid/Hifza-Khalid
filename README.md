@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The divine is not something high above us. It is in heaven, it is in earth, it is inside us. - Morihei Ueshiba
+Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do. - Elvis Presley
 
 <!-- QUOTE-END -->
 
