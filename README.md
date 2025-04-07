@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do. - Elvis Presley
+As you think, so shall you become.  - Bruce Lee
 
 <!-- QUOTE-END -->
 
