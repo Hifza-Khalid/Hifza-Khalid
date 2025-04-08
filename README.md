@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-As you think, so shall you become.  - Bruce Lee
+Progress is impossible without change, and those who cannot change their minds cannot change anything. - George Bernard Shaw
 
 <!-- QUOTE-END -->
 
