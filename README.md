@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Progress is impossible without change, and those who cannot change their minds cannot change anything. - George Bernard Shaw
+The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities. - Charles Dickens
 
 <!-- QUOTE-END -->
 
