@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Confidence is what you have before you understand the problem. - Woody Allen
+Before you embark on a journey of revenge, dig two graves.  - Confucius
 
 <!-- QUOTE-END -->
 
