@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Before you embark on a journey of revenge, dig two graves.  - Confucius
+Talk does not cook rice. - Chinese Proverb
 
 <!-- QUOTE-END -->
 
