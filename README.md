@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Talk does not cook rice. - Chinese Proverb
+Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight. - Benjamin Franklin
 
 <!-- QUOTE-END -->
 
