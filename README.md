@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight. - Benjamin Franklin
+Vision is the art of seeing things invisible. - Jonathan Swift
 
 <!-- QUOTE-END -->
 
