@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Vision is the art of seeing things invisible. - Jonathan Swift
+Sorrow is how we learn to love. - Rita Mae Brown
 
 <!-- QUOTE-END -->
 
