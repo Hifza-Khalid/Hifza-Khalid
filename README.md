@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Sorrow is how we learn to love. - Rita Mae Brown
+Without the confidence, nothing can be accomplished. - Sathya Sai Baba
 
 <!-- QUOTE-END -->
 
