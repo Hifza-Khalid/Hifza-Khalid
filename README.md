@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Without the confidence, nothing can be accomplished. - Sathya Sai Baba
+Wrong turns are as important as right turns. More important, sometimes. - Richard Bach
 
 <!-- QUOTE-END -->
 
