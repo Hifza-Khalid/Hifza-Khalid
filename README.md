@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Wrong turns are as important as right turns. More important, sometimes. - Richard Bach
+I believe that potential is unlimited - success depends on daring to act on dreams.    - Estee Lauder
 
 <!-- QUOTE-END -->
 
