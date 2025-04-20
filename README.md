@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I believe that potential is unlimited - success depends on daring to act on dreams.    - Estee Lauder
+Don't allow your mind to tell your heart what to do. The mind gives up easily. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
