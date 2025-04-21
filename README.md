@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't allow your mind to tell your heart what to do. The mind gives up easily. - Paulo Coelho
+Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it. - Gurbaksh Chahal
 
 <!-- QUOTE-END -->
 
