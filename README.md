@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it. - Gurbaksh Chahal
+People become attached to their burdens sometimes more than the burdens are attached to them. - George Bernard Shaw
 
 <!-- QUOTE-END -->
 
