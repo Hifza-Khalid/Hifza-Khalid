@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-People become attached to their burdens sometimes more than the burdens are attached to them. - George Bernard Shaw
+If you want more luck, take more chances. - Brian Tracy
 
 <!-- QUOTE-END -->
 
