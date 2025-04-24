@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you want more luck, take more chances. - Brian Tracy
+The world is changed by your example, not by your opinion. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
