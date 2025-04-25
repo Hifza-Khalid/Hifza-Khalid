@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The world is changed by your example, not by your opinion. - Paulo Coelho
+Life is like stepping onto a boat which is about to sail out to sea and sink. - Shunryu Suzuki
 
 <!-- QUOTE-END -->
 
