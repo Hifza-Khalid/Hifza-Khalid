@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life is like stepping onto a boat which is about to sail out to sea and sink. - Shunryu Suzuki
+Because of your smile, you make life more beautiful. - Thich Nhat Hanh
 
 <!-- QUOTE-END -->
 
