@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Because of your smile, you make life more beautiful. - Thich Nhat Hanh
+To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. - Elvis Presley
 
 <!-- QUOTE-END -->
 
