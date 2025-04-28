@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. - Elvis Presley
+Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - Ayn Rand
 
 <!-- QUOTE-END -->
 
