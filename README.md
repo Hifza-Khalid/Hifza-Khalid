@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everything that irritates us about others. - Carl Jung
+Don't wish it were easier, wish you were better. - Jim Rohn
 
 <!-- QUOTE-END -->
 
