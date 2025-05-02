@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You are the only real obstacle in your path to a fulfilling life. - Les Brown
+Health is the greatest of all possessions. - Jonathan Swift
 
 <!-- QUOTE-END -->
 
