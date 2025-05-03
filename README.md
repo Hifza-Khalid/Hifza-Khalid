@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">,I'm Hifza Khalid</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Frontend+Developer+👨‍💻;Web+Technologies+Expert+🌐;UI/UX+Designer+🎨;React+Developer+⚛️;Machine+Learning+Enthusiast+🤖;Always+learning+new+tech!+📚">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Frontend+Developer;Web+Technologies+Expert;UI/UX+Designer+;React+Developer;Machine+Learning+Enthusiast;Always+learning+new+tech!">
 </p>
 
 ---
