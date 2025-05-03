@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Health is the greatest of all possessions. - Jonathan Swift
+Your only limitations are those you set up in your mind or permit others to set up for you. - Og Mandino
 
 <!-- QUOTE-END -->
 
