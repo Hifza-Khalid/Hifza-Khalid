@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-They who have conquered doubt and fear have conquered failure. - James Allen
+Everyday is a second chance. - Unknown
 
 <!-- QUOTE-END -->
 
