@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everyday is a second chance. - Unknown
+We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences  - Nikola Tesla
 
 <!-- QUOTE-END -->
 
