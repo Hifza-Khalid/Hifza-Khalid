@@ -240,7 +240,7 @@ We cannot expect to be happy always... by experiencing evil as well as good we b
 I’ve curated a list of my go-to VS Code extensions to boost productivity and streamline development. [<img src="https://img.shields.io/badge/My%20VS%20Code%20Extensions-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" alt="My VS Code Extensions" />](https://gist.github.com/Hifza-Khalid/9d19d1d7c04135334c3aaf69867e28fb)
 
 ---
-## My Badges
+## 🏅 My Badges
 <a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg"></a>
 <a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg"></a>
 <a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/github/maintain-secure-repository-github.svg"></a>
@@ -249,7 +249,6 @@ I’ve curated a list of my go-to VS Code extensions to boost productivity and s
 <a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"></a>
 <a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/plan-first-chatbot-online-workshop.svg"></a>
 <a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg"></a>
-<a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/fundamentals-generative-ai.svg"></a>
 
 # 🚀 GitHub Wrapped 2024 
 
