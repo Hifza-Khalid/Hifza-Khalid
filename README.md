@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Imagination is more important than knowledge. - Albert Einstein
+We cannot expect to be happy always... by experiencing evil as well as good we become wise. - Hans Christian Andersen
 
 <!-- QUOTE-END -->
 
