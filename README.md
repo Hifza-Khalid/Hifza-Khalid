@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You know the more one does the more one can do. - Amelia Earhart
+It is never too late to be what you might have been. - George Eliot
 
 <!-- QUOTE-END -->
 
