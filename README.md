@@ -286,8 +286,6 @@ I’ve curated a list of my go-to VS Code extensions to boost productivity and s
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hifza-Khalid&color=brightgreen)
-
-[![committers.top badge](https://user-badge.committers.top/pakistan/Hifza-Khalid.svg)](https://user-badge.committers.top/pakistan/Hifza-Khalid)
 </div>
 
 <div align="center">
