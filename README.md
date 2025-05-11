@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is never too late to be what you might have been. - George Eliot
+The important thing is not what one is born with but what use one makes of that equipment. - Alfred Adler
 
 <!-- QUOTE-END -->
 
