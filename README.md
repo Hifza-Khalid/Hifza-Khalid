@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The important thing is not what one is born with but what use one makes of that equipment. - Alfred Adler
+He who permits himself to tell a lie once, finds it much easier to do it the second time. - Thomas Jefferson
 
 <!-- QUOTE-END -->
 
