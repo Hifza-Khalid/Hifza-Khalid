@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-He who permits himself to tell a lie once, finds it much easier to do it the second time. - Thomas Jefferson
+To live is the rarest thing in the world. Most people exist, that is all.  - Oscar Wilde
 
 <!-- QUOTE-END -->
 
