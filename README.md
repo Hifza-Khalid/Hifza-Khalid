@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-To live is the rarest thing in the world. Most people exist, that is all.  - Oscar Wilde
+The key to immortality is first living a life worth remembering.  - Bruce Lee
 
 <!-- QUOTE-END -->
 
