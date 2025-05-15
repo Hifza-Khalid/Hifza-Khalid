@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The key to immortality is first living a life worth remembering.  - Bruce Lee
+Hope is a waking dream. - Aristotle
 
 <!-- QUOTE-END -->
 
