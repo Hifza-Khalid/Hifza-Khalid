@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Hope is a waking dream. - Aristotle
+Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. - William James
 
 <!-- QUOTE-END -->
 
