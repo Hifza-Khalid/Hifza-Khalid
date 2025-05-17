@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. - William James
+You are never too old to set another goal or to dream a new dream. - Les Brown
 
 <!-- QUOTE-END -->
 
