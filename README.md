@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You are never too old to set another goal or to dream a new dream. - Les Brown
+The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. - Helen Keller
 
 <!-- QUOTE-END -->
 
