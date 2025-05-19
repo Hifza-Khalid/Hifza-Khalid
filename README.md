@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. - Helen Keller
+Learn only how to avoid seeking for and attaching yourselves to anything. - Huang Po
 
 <!-- QUOTE-END -->
 
