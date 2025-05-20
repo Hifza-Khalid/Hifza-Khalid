@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Learn only how to avoid seeking for and attaching yourselves to anything. - Huang Po
+Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. - Zen Proverb
 
 <!-- QUOTE-END -->
 
