@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. - Zen Proverb
+Change happens when the pain of holding on becomes greater than the fear of letting go. - Spencer Johnson
 
 <!-- QUOTE-END -->
 
