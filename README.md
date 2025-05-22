@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Change happens when the pain of holding on becomes greater than the fear of letting go. - Spencer Johnson
+If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr.
 
 <!-- QUOTE-END -->
 
