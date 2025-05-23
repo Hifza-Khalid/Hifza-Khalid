@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr.
+Even in the grave, all is not lost. - Edgar Allan Poe
 
 <!-- QUOTE-END -->
 
