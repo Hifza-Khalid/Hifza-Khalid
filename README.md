@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Even in the grave, all is not lost. - Edgar Allan Poe
+He who is not contented with what he has, would not be contented with what he would like to have. - Socrates
 
 <!-- QUOTE-END -->
 
