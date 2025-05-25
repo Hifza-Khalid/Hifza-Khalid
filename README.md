@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-He who is not contented with what he has, would not be contented with what he would like to have. - Socrates
+Light a candle instead of cursing the darkness. - Eleanor Roosevelt
 
 <!-- QUOTE-END -->
 
