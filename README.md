@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Light a candle instead of cursing the darkness. - Eleanor Roosevelt
+It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on. - Steve Maraboli
 
 <!-- QUOTE-END -->
 
