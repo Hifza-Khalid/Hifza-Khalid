@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on. - Steve Maraboli
+Everyone must choose one of two pains: The pain of discipline or the pain of regret. - Jim Rohn
 
 <!-- QUOTE-END -->
 
