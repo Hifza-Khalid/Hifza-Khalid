@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everyone must choose one of two pains: The pain of discipline or the pain of regret. - Jim Rohn
+Just do the best you can. No one can do more than that. - John Wooden
 
 <!-- QUOTE-END -->
 
