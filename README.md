@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Just do the best you can. No one can do more than that. - John Wooden
+I live by letting things happen. - Dogen
 
 <!-- QUOTE-END -->
 
