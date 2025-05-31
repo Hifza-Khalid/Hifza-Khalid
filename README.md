@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The future will be shaped by those willing to commit their minds and their bodies to the task. - Robert F. Kennedy
+Kind words can be short and easy to speak, but their echoes are truly endless. - Mother Teresa
 
 <!-- QUOTE-END -->
 
