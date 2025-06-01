@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Kind words can be short and easy to speak, but their echoes are truly endless. - Mother Teresa
+For all evils there are two remedies - time and silence. - Alexandre Dumas
 
 <!-- QUOTE-END -->
 
