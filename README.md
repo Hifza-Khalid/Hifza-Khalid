@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-For all evils there are two remedies - time and silence. - Alexandre Dumas
+Do Something. If it works, do more of it. If it doesn't, do something else. - Franklin D. Roosevelt
 
 <!-- QUOTE-END -->
 
