@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-What you do today can improve all your tomorrows. - Ralph Marston
+The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. - Amelia Earhart
 
 <!-- QUOTE-END -->
 
