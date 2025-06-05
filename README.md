@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. - Amelia Earhart
+The big thing is to make a winning effort. I'm not obsessed with wins. - Morgan Wootten
 
 <!-- QUOTE-END -->
 
