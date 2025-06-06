@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The big thing is to make a winning effort. I'm not obsessed with wins. - Morgan Wootten
+Why do you stay in prison when the door is so wide open? - Rumi
 
 <!-- QUOTE-END -->
 
