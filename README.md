@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Why do you stay in prison when the door is so wide open? - Rumi
+Distant water does not put out a nearby fire. - Chinese Proverb
 
 <!-- QUOTE-END -->
 
