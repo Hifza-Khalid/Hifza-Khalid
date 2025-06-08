@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Distant water does not put out a nearby fire. - Chinese Proverb
+If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose. - Celestine Chua
 
 <!-- QUOTE-END -->
 
