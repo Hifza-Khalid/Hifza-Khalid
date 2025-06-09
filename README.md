@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose. - Celestine Chua
+20 percent of your activities will account for 80 percent of your results. - Brian Tracy
 
 <!-- QUOTE-END -->
 
