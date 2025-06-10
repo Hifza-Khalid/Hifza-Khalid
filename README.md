@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-20 percent of your activities will account for 80 percent of your results. - Brian Tracy
+I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves. - Steve Maraboli
 
 <!-- QUOTE-END -->
 
