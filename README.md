@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It's not what happens to you, but how you react to it that matters. - Epictetus
+What the mind can conceive, it can achieve. - Napoleon Hill
 
 <!-- QUOTE-END -->
 
