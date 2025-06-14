@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-What the mind can conceive, it can achieve. - Napoleon Hill
+They say love is the best investment; the more you give, the more you get in return. - Audrey Hepburn
 
 <!-- QUOTE-END -->
 
