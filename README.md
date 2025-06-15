@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-They say love is the best investment; the more you give, the more you get in return. - Audrey Hepburn
+Dreams are the royal road to the unconscious.  - Sigmund Freud
 
 <!-- QUOTE-END -->
 
