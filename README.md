@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Dreams are the royal road to the unconscious.  - Sigmund Freud
+Don't be afraid to go slowly. Be afraid of stopping. - Zen Proverb
 
 <!-- QUOTE-END -->
 
