@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't be afraid to go slowly. Be afraid of stopping. - Zen Proverb
+Weeds are flowers too, once you get to know them. - A.A. Milne
 
 <!-- QUOTE-END -->
 
