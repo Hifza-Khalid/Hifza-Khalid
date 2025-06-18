@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Weeds are flowers too, once you get to know them. - A.A. Milne
+You change the world by being yourself. - Yoko Ono
 
 <!-- QUOTE-END -->
 
