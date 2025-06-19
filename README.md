@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You change the world by being yourself. - Yoko Ono
+It is often safer to be in chains than to be free.  - Franz Kafka
 
 <!-- QUOTE-END -->
 
