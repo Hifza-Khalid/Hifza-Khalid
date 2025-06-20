@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is often safer to be in chains than to be free.  - Franz Kafka
+Life is not a problem to be solved, but a reality to be experienced. - Soren Kierkegaard
 
 <!-- QUOTE-END -->
 
