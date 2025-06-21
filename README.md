@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life is not a problem to be solved, but a reality to be experienced. - Soren Kierkegaard
+If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else. - Simon Sinek
 
 <!-- QUOTE-END -->
 
