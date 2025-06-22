@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else. - Simon Sinek
+Most people dabble their way through life, never deciding to master anything in particular. - Tony Robbins
 
 <!-- QUOTE-END -->
 
