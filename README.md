@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Most people dabble their way through life, never deciding to master anything in particular. - Tony Robbins
+Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  - Denis Waitley
 
 <!-- QUOTE-END -->
 
