@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  - Denis Waitley
+If I love myself I love you. If I love you I love myself. - Rumi
 
 <!-- QUOTE-END -->
 
