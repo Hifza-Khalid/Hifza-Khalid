@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If I love myself I love you. If I love you I love myself. - Rumi
+Pleasure can be supported by an illusion; but happiness rests upon truth.  - Nicolas Chamfort
 
 <!-- QUOTE-END -->
 
