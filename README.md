@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Pleasure can be supported by an illusion; but happiness rests upon truth.  - Nicolas Chamfort
+You can't climb the ladder of success with your hands in your pockets. - Arnold Schwarzenegger
 
 <!-- QUOTE-END -->
 
