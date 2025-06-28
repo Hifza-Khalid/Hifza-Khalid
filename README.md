@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley
+Remember the entrance to the sanctuary is inside you. - Rumi
 
 <!-- QUOTE-END -->
 
