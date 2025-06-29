@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Remember the entrance to the sanctuary is inside you. - Rumi
+Never say never, because limits, like fears, are often just an illusion. - Michael Jordan
 
 <!-- QUOTE-END -->
 
