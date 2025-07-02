@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-As you think, you travel, and as you love, you attract. - James Allen
+I have lived with several Zen masters -- all of them cats. - Eckhart Tolle
 
 <!-- QUOTE-END -->
 
