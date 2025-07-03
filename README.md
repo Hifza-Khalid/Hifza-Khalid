@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I have lived with several Zen masters -- all of them cats. - Eckhart Tolle
+The past has no power over the present moment.  - Eckhart Tolle
 
 <!-- QUOTE-END -->
 
