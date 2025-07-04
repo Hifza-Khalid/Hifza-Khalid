@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The past has no power over the present moment.  - Eckhart Tolle
+A golden cage is still just a cage. - Anita Krizzan
 
 <!-- QUOTE-END -->
 
