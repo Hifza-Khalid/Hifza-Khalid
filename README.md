@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A golden cage is still just a cage. - Anita Krizzan
+Experience is simply the name we give our mistakes.  - Oscar Wilde
 
 <!-- QUOTE-END -->
 
