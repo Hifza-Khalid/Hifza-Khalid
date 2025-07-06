@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Experience is simply the name we give our mistakes.  - Oscar Wilde
+Confidence is what you have before you understand the problem. - Woody Allen
 
 <!-- QUOTE-END -->
 
