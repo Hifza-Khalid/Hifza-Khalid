@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Confidence is what you have before you understand the problem. - Woody Allen
+Everything you've ever wanted is on the other side of fear. - Brian Tracy
 
 <!-- QUOTE-END -->
 
