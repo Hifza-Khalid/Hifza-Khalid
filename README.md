@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everything you've ever wanted is on the other side of fear. - Brian Tracy
+If you have only one smile in you give it to the people you love. - Maya Angelou
 
 <!-- QUOTE-END -->
 
