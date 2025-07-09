@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you have only one smile in you give it to the people you love. - Maya Angelou
+The best way to find yourself is to lose yourself in the service of others. - Mahatma Gandhi
 
 <!-- QUOTE-END -->
 
