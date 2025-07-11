@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-To achieve, you need thought. You have to know what you are doing and that's real power. - Ayn Rand
+Men are equal; it is not birth but virtue that makes the difference. - Voltaire
 
 <!-- QUOTE-END -->
 
