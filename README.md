@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Men are equal; it is not birth but virtue that makes the difference. - Voltaire
+You get paid in direct proportion to the difficulty of problems you solve. - Elon Musk
 
 <!-- QUOTE-END -->
 
