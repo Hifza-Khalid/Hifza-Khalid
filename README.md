@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You get paid in direct proportion to the difficulty of problems you solve. - Elon Musk
+When one does not have what one wants, one must want what one has. - Sigmund Freud
 
 <!-- QUOTE-END -->
 
