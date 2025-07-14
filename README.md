@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-When one does not have what one wants, one must want what one has. - Sigmund Freud
+I never said it would be easy, I only said it would be worth it. - Mae West
 
 <!-- QUOTE-END -->
 
