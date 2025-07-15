@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I never said it would be easy, I only said it would be worth it. - Mae West
+A dream you dream alone is only a dream. A dream you dream together is reality. - Yoko Ono
 
 <!-- QUOTE-END -->
 
