@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A dream you dream alone is only a dream. A dream you dream together is reality. - Yoko Ono
+There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. - Henry Ward Beecher
 
 <!-- QUOTE-END -->
 
