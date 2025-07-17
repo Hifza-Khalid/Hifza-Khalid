@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. - Henry Ward Beecher
+Argue for your limitations and sure enough, they're yours. - Richard Bach
 
 <!-- QUOTE-END -->
 
