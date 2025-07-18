@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Argue for your limitations and sure enough, they're yours. - Richard Bach
+Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. - Robert Kiyosaki
 
 <!-- QUOTE-END -->
 
