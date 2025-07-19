@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. - Robert Kiyosaki
+Time doesn't heal emotional pain, you need to learn how to let go. - Roy T. Bennett
 
 <!-- QUOTE-END -->
 
