@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Time doesn't heal emotional pain, you need to learn how to let go. - Roy T. Bennett
+Life becomes easier and more beautiful when we can see the good in other people. - Roy T. Bennett
 
 <!-- QUOTE-END -->
 
