@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life becomes easier and more beautiful when we can see the good in other people. - Roy T. Bennett
+Take interest and even delight in doing the small things well. - Jim Rohn
 
 <!-- QUOTE-END -->
 
