@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Take interest and even delight in doing the small things well. - Jim Rohn
+He who violates another's honor loses his own. - Publilius Syrus
 
 <!-- QUOTE-END -->
 
