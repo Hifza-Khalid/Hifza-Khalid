@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-He who violates another's honor loses his own. - Publilius Syrus
+Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next. - Herbert Hoover
 
 <!-- QUOTE-END -->
 
