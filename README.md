@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Is it really possible to tell someone else what one feels? - Leo Tolstoy
+Everything begins with an idea. - Earl Nightingale
 
 <!-- QUOTE-END -->
 
