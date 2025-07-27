@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everything begins with an idea. - Earl Nightingale
+Forever is composed of now's. - Emily Dickinson
 
 <!-- QUOTE-END -->
 
