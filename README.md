@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Forever is composed of now's. - Emily Dickinson
+If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. - T.S. Eliot
 
 <!-- QUOTE-END -->
 
