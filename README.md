@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. - T.S. Eliot
+Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is. - Nicolas Chamfort
 
 <!-- QUOTE-END -->
 
