@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is. - Nicolas Chamfort
+Today you are you, that is truer than true. There is no one alive who is you-er than you. - Dr. Seuss
 
 <!-- QUOTE-END -->
 
