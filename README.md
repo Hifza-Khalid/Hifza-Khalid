@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Today you are you, that is truer than true. There is no one alive who is you-er than you. - Dr. Seuss
+The purpose of life is to contribute in some way to making things better. - Robert F. Kennedy
 
 <!-- QUOTE-END -->
 
