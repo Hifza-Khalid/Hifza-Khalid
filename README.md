@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The purpose of life is to contribute in some way to making things better. - Robert F. Kennedy
+Many people spend more time looking at their failures than focusing on their successes. - Lolly Daskal
 
 <!-- QUOTE-END -->
 
