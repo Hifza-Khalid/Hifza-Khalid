@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Many people spend more time looking at their failures than focusing on their successes. - Lolly Daskal
+Character is the result of two things: mental attitude and the way we spend our time. - Elbert Hubbard
 
 <!-- QUOTE-END -->
 
