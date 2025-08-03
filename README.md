@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Character is the result of two things: mental attitude and the way we spend our time. - Elbert Hubbard
+A leader leads by example, not by force. - Sun Tzu
 
 <!-- QUOTE-END -->
 
