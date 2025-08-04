@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A leader leads by example, not by force. - Sun Tzu
+The roots of education are bitter, but the fruit is sweet. - Aristotle
 
 <!-- QUOTE-END -->
 
