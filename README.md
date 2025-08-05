@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The roots of education are bitter, but the fruit is sweet. - Aristotle
+From a certain point onward there is no longer any turning back. That is the point that must be reached. - Franz Kafka
 
 <!-- QUOTE-END -->
 
