@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No man becomes rich unless he enriches others. - Andrew Carnegie
+One loses many laughs by not laughing at oneself. - Mary Engelbreit
 
 <!-- QUOTE-END -->
 
