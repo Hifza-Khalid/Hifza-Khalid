@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-One loses many laughs by not laughing at oneself. - Mary Engelbreit
+Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive. - Anne Wilson Schaef
 
 <!-- QUOTE-END -->
 
