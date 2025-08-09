@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive. - Anne Wilson Schaef
+We are born from a quiet sleep, and we die to a calm awakening - Zhuangzi
 
 <!-- QUOTE-END -->
 
