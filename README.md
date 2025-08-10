@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We are born from a quiet sleep, and we die to a calm awakening - Zhuangzi
+If you want to keep your memories, you first have to live them. - Bob Dylan
 
 <!-- QUOTE-END -->
 
