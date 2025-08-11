@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you want to keep your memories, you first have to live them. - Bob Dylan
+Most people get ahead during the time that others waste. - Henry Ford
 
 <!-- QUOTE-END -->
 
