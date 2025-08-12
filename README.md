@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Most people get ahead during the time that others waste. - Henry Ford
+Courage is the price that life exacts for granting peace. - Amelia Earhart
 
 <!-- QUOTE-END -->
 
