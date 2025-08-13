@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Courage is the price that life exacts for granting peace. - Amelia Earhart
+There is only one thing in the world worse than being talked about, and that is not being talked about.  - Oscar Wilde
 
 <!-- QUOTE-END -->
 
