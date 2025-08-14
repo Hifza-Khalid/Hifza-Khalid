@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There is only one thing in the world worse than being talked about, and that is not being talked about.  - Oscar Wilde
+Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
