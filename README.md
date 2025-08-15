@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. - Paulo Coelho
+Turn your wounds into wisdom.  - Oprah Winfrey
 
 <!-- QUOTE-END -->
 
