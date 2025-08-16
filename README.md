@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Turn your wounds into wisdom.  - Oprah Winfrey
+Be grateful for what you have now, and nothing should be taken for granted. - Roy T. Bennett
 
 <!-- QUOTE-END -->
 
