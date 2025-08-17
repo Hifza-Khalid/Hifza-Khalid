@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Be grateful for what you have now, and nothing should be taken for granted. - Roy T. Bennett
+Saying nothing sometimes says the most. - Emily Dickinson
 
 <!-- QUOTE-END -->
 
