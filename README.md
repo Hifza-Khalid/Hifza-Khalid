@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Saying nothing sometimes says the most. - Emily Dickinson
+The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. - Bob Marley
 
 <!-- QUOTE-END -->
 
