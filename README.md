@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. - Bob Marley
+Most people get ahead during the time that others waste. - Henry Ford
 
 <!-- QUOTE-END -->
 
