@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Most people get ahead during the time that others waste. - Henry Ford
+The purpose of life is the expansion of happiness. - Deepak Chopra
 
 <!-- QUOTE-END -->
 
