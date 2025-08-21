@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The purpose of life is the expansion of happiness. - Deepak Chopra
+If you're brave enough to say goodbye, life will reward you with a new hello. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
