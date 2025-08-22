@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you're brave enough to say goodbye, life will reward you with a new hello. - Paulo Coelho
+The goal of an artist is to create the definitive work that cannot be surpassed. - George Bernard Shaw
 
 <!-- QUOTE-END -->
 
