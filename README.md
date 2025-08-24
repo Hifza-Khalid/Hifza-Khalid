@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I would rather die on my feet than live on my knees. - Euripides
+It is indeed a radical act of love just to sit down and be quiet for a time by yourself. - Jon Kabat-Zinn
 
 <!-- QUOTE-END -->
 
