@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is indeed a radical act of love just to sit down and be quiet for a time by yourself. - Jon Kabat-Zinn
+Ideas do not reach perfection in a day, no matter how much study is put upon them. - Alexander Graham Bell
 
 <!-- QUOTE-END -->
 
