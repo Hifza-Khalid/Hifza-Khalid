@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Ideas do not reach perfection in a day, no matter how much study is put upon them. - Alexander Graham Bell
+Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
 
 <!-- QUOTE-END -->
 
