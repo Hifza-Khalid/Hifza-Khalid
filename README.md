@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
+Peace begins with a smile. - Mother Teresa
 
 <!-- QUOTE-END -->
 
