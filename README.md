@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Peace begins with a smile. - Mother Teresa
+Where focus goes, energy flows. - Tony Robbins
 
 <!-- QUOTE-END -->
 
