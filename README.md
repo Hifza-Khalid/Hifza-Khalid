@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Where focus goes, energy flows. - Tony Robbins
+We love the things we love for what they are. - Robert Frost
 
 <!-- QUOTE-END -->
 
