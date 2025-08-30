@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We love the things we love for what they are. - Robert Frost
+A Quitter never wins - and - a Winner never quits. - Napoleon Hill
 
 <!-- QUOTE-END -->
 
