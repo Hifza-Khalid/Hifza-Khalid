@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The real measure of your wealth is how much you'd be worth if you lost all your money. - Unknown
+No one can hurt you without your consent. - Eleanor Roosevelt
 
 <!-- QUOTE-END -->
 
