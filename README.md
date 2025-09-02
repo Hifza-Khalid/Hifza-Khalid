@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No one can hurt you without your consent. - Eleanor Roosevelt
+For every minute you are angry you lose sixty seconds of happiness. - Ralph Waldo Emerson
 
 <!-- QUOTE-END -->
 
