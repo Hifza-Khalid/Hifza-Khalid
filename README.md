@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-For every minute you are angry you lose sixty seconds of happiness. - Ralph Waldo Emerson
+Success is built sequentially. It's one thing at a time. - Gary Keller
 
 <!-- QUOTE-END -->
 
