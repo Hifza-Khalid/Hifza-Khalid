@@ -217,9 +217,11 @@ Very little is needed to make a happy life; it is all within yourself, in your w
   <!-- Most Used Languages (Light theme) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifza-khalid&layout=compact&theme=light&langs_count=6" alt="Most Used Languages" style="border-radius: 12px; margin-bottom: 20px;" />
 
- <p align="center" style="background-color: #D9E8FF; padding: 10px; border-radius: 9px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hifza-khalid" alt="GitHub Streak" />
+<p align="center" style="background-color: #D9E8FF; padding: 10px; border-radius: 9px;">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=hifza-khalid&theme=default" alt="GitHub Streak" />
 </p>
+
+
 
 </div>
 
