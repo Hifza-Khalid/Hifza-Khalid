@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Success is built sequentially. It's one thing at a time. - Gary Keller
+Very little is needed to make a happy life; it is all within yourself, in your way of thinking. - Marcus Aurelius
 
 <!-- QUOTE-END -->
 
