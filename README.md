@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Very little is needed to make a happy life; it is all within yourself, in your way of thinking. - Marcus Aurelius
+Do the hard jobs first. The easy jobs will take care of themselves. - Dale Carnegie
 
 <!-- QUOTE-END -->
 
