@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do the hard jobs first. The easy jobs will take care of themselves. - Dale Carnegie
+Integrity is telling myself the truth. And honesty is telling the truth to other people. - Spencer Johnson
 
 <!-- QUOTE-END -->
 
