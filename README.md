@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Integrity is telling myself the truth. And honesty is telling the truth to other people. - Spencer Johnson
+If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace. - Dogen
 
 <!-- QUOTE-END -->
 
