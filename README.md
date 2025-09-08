@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace. - Dogen
+True friendship ought never to conceal what it thinks.  - St. Jerome
 
 <!-- QUOTE-END -->
 
