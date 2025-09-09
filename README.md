@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-True friendship ought never to conceal what it thinks.  - St. Jerome
+Deeds will not be less valiant because they are upraised. - J.R.R. Tolkien
 
 <!-- QUOTE-END -->
 
