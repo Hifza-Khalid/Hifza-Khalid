@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Deeds will not be less valiant because they are upraised. - J.R.R. Tolkien
+Your goals are the road maps that guide you and show you what is possible for your life. - Les Brown
 
 <!-- QUOTE-END -->
 
