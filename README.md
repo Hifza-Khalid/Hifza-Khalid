@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Your goals are the road maps that guide you and show you what is possible for your life. - Les Brown
+Don't look back - you're not going that way. - Mary Engelbreit
 
 <!-- QUOTE-END -->
 
