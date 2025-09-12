@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't look back - you're not going that way. - Mary Engelbreit
+It is startling to realize how much unbelief is necessary to make belief possible. - Eric Hoffer
 
 <!-- QUOTE-END -->
 
