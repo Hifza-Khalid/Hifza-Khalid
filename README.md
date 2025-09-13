@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is startling to realize how much unbelief is necessary to make belief possible. - Eric Hoffer
+Life is what happens to you while you're busy making other plans. - John Lennon
 
 <!-- QUOTE-END -->
 
