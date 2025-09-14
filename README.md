@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life is what happens to you while you're busy making other plans. - John Lennon
+Choose a job you love, and you will never have to work a day in your life.  - Confucius
 
 <!-- QUOTE-END -->
 
