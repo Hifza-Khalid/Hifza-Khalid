@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Choose a job you love, and you will never have to work a day in your life.  - Confucius
+I can think of nothing less pleasurable than a life devoted to pleasure. - John D. Rockefeller
 
 <!-- QUOTE-END -->
 
