@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I can think of nothing less pleasurable than a life devoted to pleasure. - John D. Rockefeller
+Each path to knowledge involves different rules and these rules are not interchangeable. - Barack Obama
 
 <!-- QUOTE-END -->
 
