@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Each path to knowledge involves different rules and these rules are not interchangeable. - Barack Obama
+We cannot change anything unless we accept it. - Carl Jung
 
 <!-- QUOTE-END -->
 
