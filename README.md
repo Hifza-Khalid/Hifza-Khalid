@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We cannot change anything unless we accept it. - Carl Jung
+When the world pushes you to your knees, you're in the perfect position to pray. - Rumi
 
 <!-- QUOTE-END -->
 
