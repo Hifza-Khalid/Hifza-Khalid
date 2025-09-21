@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Choose to be optimistic, it feels better. - Dalai Lama
+Success is good at any age, but the sooner you find it, the longer you will enjoy it. - Napoleon Hill
 
 <!-- QUOTE-END -->
 
