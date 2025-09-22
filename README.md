@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Success is good at any age, but the sooner you find it, the longer you will enjoy it. - Napoleon Hill
+The biggest challenge after success is shutting up about it. - Criss Jami
 
 <!-- QUOTE-END -->
 
