@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The biggest challenge after success is shutting up about it. - Criss Jami
+Nature is pleased with simplicity. And nature is no dummy. - Isaac Newton
 
 <!-- QUOTE-END -->
 
