@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Nature is pleased with simplicity. And nature is no dummy. - Isaac Newton
+Ideas do not reach perfection in a day, no matter how much study is put upon them. - Alexander Graham Bell
 
 <!-- QUOTE-END -->
 
