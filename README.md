@@ -20,7 +20,7 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
        alt="Coding" width="260" height="230" 
        style="border-radius: 50%; margin: 8px; object-fit: cover;">
   <ul>
-    <li><b>🔭 Currently Working On:</b> SuperiorWay App in Flutter 📚</li>
+    <li><b>🔭 Currently Working On:</b> AI powered Interviewing System </li>
     <li><b>👯 Open to Collaborate:</b> Innovative Web Development Projects 🌐</li>
     <li><b>🤝 Seeking Support With:</b> Scaling Impactful Tech Solutions 🚀</li>
     <li><b>💬 Ask Me About:</b> Web Technologies, UI/UX Design, Frontend Frameworks 🛠️</li>
