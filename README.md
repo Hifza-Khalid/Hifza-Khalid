@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. - Steve Jobs
+To know your Enemy, you must become your Enemy. - Sun Tzu
 
 <!-- QUOTE-END -->
 
