@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-To know your Enemy, you must become your Enemy. - Sun Tzu
+We are like islands in the sea, separate on the surface but connected in the deep. - William James
 
 <!-- QUOTE-END -->
 
