@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We are like islands in the sea, separate on the surface but connected in the deep. - William James
+Man is made by his belief. As he believes, so he is. - Bhagavad Gita
 
 <!-- QUOTE-END -->
 
