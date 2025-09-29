@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Man is made by his belief. As he believes, so he is. - Bhagavad Gita
+Those who can make you believe absurdities can make you commit atrocities.  - Voltaire
 
 <!-- QUOTE-END -->
 
