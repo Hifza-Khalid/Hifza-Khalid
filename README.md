@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever. - Alexandre Dumas
+No matter how tall the mountain is, it cannot block the sun. - Chinese Proverb
 
 <!-- QUOTE-END -->
 
