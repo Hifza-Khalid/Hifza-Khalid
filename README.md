@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No matter how tall the mountain is, it cannot block the sun. - Chinese Proverb
+Do good by stealth, and blush to find it fame. - Alexander Pope
 
 <!-- QUOTE-END -->
 
