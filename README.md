@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do good by stealth, and blush to find it fame. - Alexander Pope
+Fear is stupid. So are regrets. - Marilyn Monroe
 
 <!-- QUOTE-END -->
 
