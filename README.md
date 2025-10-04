@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Fear is stupid. So are regrets. - Marilyn Monroe
+In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
 
 <!-- QUOTE-END -->
 
