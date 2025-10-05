@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
+Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. - Og Mandino
 
 <!-- QUOTE-END -->
 
