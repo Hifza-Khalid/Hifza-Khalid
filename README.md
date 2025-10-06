@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. - Og Mandino
+Remember, today is the tomorrow you worried about yesterday. - Dale Carnegie
 
 <!-- QUOTE-END -->
 
