@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Remember, today is the tomorrow you worried about yesterday. - Dale Carnegie
+Great things are not accomplished by those who yield to trends and fads and popular opinion. - Jack Kerouac
 
 <!-- QUOTE-END -->
 
