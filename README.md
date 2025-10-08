@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Great things are not accomplished by those who yield to trends and fads and popular opinion. - Jack Kerouac
+No one ever is defeated until defeat has been accepted as a reality. - Napoleon Hill
 
 <!-- QUOTE-END -->
 
