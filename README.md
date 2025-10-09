@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No one ever is defeated until defeat has been accepted as a reality. - Napoleon Hill
+Tradition is the illusion of permanence.  - Woody Allen
 
 <!-- QUOTE-END -->
 
