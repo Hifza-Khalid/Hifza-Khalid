@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Patience is bitter, but its fruit is sweet. - Aristotle
+No great discovery was ever made without a bold guess.  - Isaac Newton
 
 <!-- QUOTE-END -->
 
