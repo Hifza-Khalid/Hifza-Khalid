@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No great discovery was ever made without a bold guess.  - Isaac Newton
+Never allow a person to tell you no who doesn't have the power to say yes. - Eleanor Roosevelt
 
 <!-- QUOTE-END -->
 
