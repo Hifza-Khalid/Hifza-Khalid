@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Never allow a person to tell you no who doesn't have the power to say yes. - Eleanor Roosevelt
+Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. - Ming-Dao Deng
 
 <!-- QUOTE-END -->
 
