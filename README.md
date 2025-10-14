@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. - Ming-Dao Deng
+It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has. - Henry Ward Beecher
 
 <!-- QUOTE-END -->
 
