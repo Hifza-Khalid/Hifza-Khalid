@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has. - Henry Ward Beecher
+Like it or not, this moment is all we really have to work with. - Jon Kabat-Zinn
 
 <!-- QUOTE-END -->
 
