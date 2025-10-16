@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Like it or not, this moment is all we really have to work with. - Jon Kabat-Zinn
+Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge. - Eckhart Tolle
 
 <!-- QUOTE-END -->
 
