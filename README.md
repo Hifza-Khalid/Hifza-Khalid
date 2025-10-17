@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge. - Eckhart Tolle
+The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. - Kamal Ravikant
 
 <!-- QUOTE-END -->
 
