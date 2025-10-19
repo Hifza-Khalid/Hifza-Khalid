@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Evil is whatever distracts.  - Franz Kafka
+It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated. - Albus Dumbledore
 
 <!-- QUOTE-END -->
 
