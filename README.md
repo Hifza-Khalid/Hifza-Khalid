@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't criticize what you can't understand.  - Bob Dylan
+The less you try to impress, the more peaceful you can be. - Maxime Lagace
 
 <!-- QUOTE-END -->
 
