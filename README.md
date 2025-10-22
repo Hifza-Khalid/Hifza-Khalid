@@ -252,7 +252,20 @@ I’ve curated a list of my go-to VS Code extensions to boost productivity and s
 <a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/plan-first-chatbot-online-workshop.svg"></a>
 <a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg"></a>
 
-# 🚀 GitHub Wrapped 2024 
+<details>
+<summary>
+  
+[![My Holopin Badges](https://img.shields.io/badge/🎖️%20Click%20to%20View%20My%20Holopin%20Badges-blue?style=for-the-badge)](https://holopin.io/@hifzakhalid)
+
+</summary>
+
+[![My Holopin Badges 🏅](https://holopin.me/hifzakhalid)](https://holopin.io/@hifzakhalid)
+
+</details>
+
+
+
+## 🚀 GitHub Wrapped 2024 
 
 <details>
   <summary>📌 Click to view GitHub Wrapped 2024 📊</summary>
