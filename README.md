@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A real friend is one who walks in when the rest of the world walks out. - Unknown
+Obstacles are those frightful things you see when you take your eyes off your goals. - Sydney Smith
 
 <!-- QUOTE-END -->
 
