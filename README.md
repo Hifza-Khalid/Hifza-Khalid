@@ -215,19 +215,20 @@ Obstacles are those frightful things you see when you take your eyes off your go
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifza-khalid&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hifza-khalid&theme=tokyo-night" alt="Contribution Graph" width="100%" />
 </div>
 
 
   <!-- GitHub Streak (Light theme) -->
-  <div style="background-color: #D9E8FF; padding: 10px; border-radius: 9px; display: inline-block;">
-    <img 
-      src="https://github-readme-streak-stats-eight.vercel.app?user=hifza-khalid&theme=default" 
-      alt="GitHub Streak" 
-      style="border-radius: 8px; width: 100%; max-width: 600px;"
-    />
-  </div>
+  <div align="center">
+  
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hifza-khalid)](https://git.io/streak-stats)
+  
+
+  
+</div>
 
 
 ---
