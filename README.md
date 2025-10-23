@@ -208,22 +208,27 @@ Obstacles are those frightful things you see when you take your eyes off your go
 
 
 
+## 📊 GitHub Stats
 
-<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); width: 100%; max-width: 800px;">
-
-  <!-- GitHub Stats (Light theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hifza-khalid&show_icons=true&locale=en&theme=light" alt="GitHub Stats" style="border-radius: 12px; margin-bottom: 20px;"/>
-
-  <!-- Most Used Languages (Light theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifza-khalid&layout=compact&theme=light&langs_count=6" alt="Most Used Languages" style="border-radius: 12px; margin-bottom: 20px;" />
-
-<p align="center" style="background-color: #D9E8FF; padding: 10px; border-radius: 9px;">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=hifza-khalid&theme=default" alt="GitHub Streak" />
-</p>
-
-
-
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hifza-khalid&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifza-khalid&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hifza-khalid&theme=tokyo-night" alt="Contribution Graph" width="100%" />
+</div>
+
+
+  <!-- GitHub Streak (Light theme) -->
+  <div style="background-color: #D9E8FF; padding: 10px; border-radius: 9px; display: inline-block;">
+    <img 
+      src="https://github-readme-streak-stats-eight.vercel.app?user=hifza-khalid&theme=default" 
+      alt="GitHub Streak" 
+      style="border-radius: 8px; width: 100%; max-width: 600px;"
+    />
+  </div>
+
 
 ---
 
