@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Obstacles are those frightful things you see when you take your eyes off your goals. - Sydney Smith
+Imagination is more important than knowledge. - Albert Einstein
 
 <!-- QUOTE-END -->
 
