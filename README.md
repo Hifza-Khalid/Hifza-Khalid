@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Imagination is more important than knowledge. - Albert Einstein
+Love never keeps a man from pursuing his destiny. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
