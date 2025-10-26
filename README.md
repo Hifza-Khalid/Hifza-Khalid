@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Love never keeps a man from pursuing his destiny. - Paulo Coelho
+Speak when you are angry - and you'll make the best speech you'll ever regret. - Laurence J. Peter
 
 <!-- QUOTE-END -->
 
