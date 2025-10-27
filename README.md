@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Speak when you are angry - and you'll make the best speech you'll ever regret. - Laurence J. Peter
+We are all faced with a series of great opportunities brilliantly disguised as impossible situations.  - Charles Swindoll
 
 <!-- QUOTE-END -->
 
