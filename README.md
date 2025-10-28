@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We are all faced with a series of great opportunities brilliantly disguised as impossible situations.  - Charles Swindoll
+The quality of your commitments will determine the course of your life. - Ralph Marston
 
 <!-- QUOTE-END -->
 
