@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The quality of your commitments will determine the course of your life. - Ralph Marston
+Change is not a four letter word...but often your reaction to it is! - Jeffrey Gitomer
 
 <!-- QUOTE-END -->
 
