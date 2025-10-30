@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Change is not a four letter word...but often your reaction to it is! - Jeffrey Gitomer
+Success is the progressive realization of a worthy goal or ideal. - Earl Nightingale
 
 <!-- QUOTE-END -->
 
