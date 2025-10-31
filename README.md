@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Success is the progressive realization of a worthy goal or ideal. - Earl Nightingale
+Happiness is only real, when shared. - Christopher McCandless
 
 <!-- QUOTE-END -->
 
