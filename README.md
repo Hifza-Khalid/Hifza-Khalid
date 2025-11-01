@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Happiness is only real, when shared. - Christopher McCandless
+Change is hardest at the beginning, messiest in the middle and best at the end. - Robin Sharma
 
 <!-- QUOTE-END -->
 
