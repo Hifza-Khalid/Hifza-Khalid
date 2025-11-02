@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Change is hardest at the beginning, messiest in the middle and best at the end. - Robin Sharma
+The joy of life comes from our encounters with new experiences. - Christopher McCandless
 
 <!-- QUOTE-END -->
 
