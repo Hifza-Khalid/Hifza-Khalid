@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The joy of life comes from our encounters with new experiences. - Christopher McCandless
+Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners. - Nicolas Chamfort
 
 <!-- QUOTE-END -->
 
