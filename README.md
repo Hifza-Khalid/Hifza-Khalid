@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners. - Nicolas Chamfort
+Have a vision. Be demanding. - Colin Powell
 
 <!-- QUOTE-END -->
 
