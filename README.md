@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Have a vision. Be demanding. - Colin Powell
+No man is happy unless he believes he is. - Publilius Syrus
 
 <!-- QUOTE-END -->
 
