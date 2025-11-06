@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No man is happy unless he believes he is. - Publilius Syrus
+To succeed takes more than the desire to win. It also takes the acceptance that we could fail. - Simon Sinek
 
 <!-- QUOTE-END -->
 
