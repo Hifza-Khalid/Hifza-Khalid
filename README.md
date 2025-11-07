@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-To succeed takes more than the desire to win. It also takes the acceptance that we could fail. - Simon Sinek
+A journey of a thousand miles begins with a single step. - Lao Tzu
 
 <!-- QUOTE-END -->
 
