@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You can tell more about a person by what he says about others than you can by what others say about him. - Audrey Hepburn
+Give a girl the right shoes, and she can conquer the world. - Bette Midler
 
 <!-- QUOTE-END -->
 
