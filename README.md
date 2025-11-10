@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Give a girl the right shoes, and she can conquer the world. - Bette Midler
+He is not a lover who does not love forever. - Euripides
 
 <!-- QUOTE-END -->
 
