@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-He is not a lover who does not love forever. - Euripides
+You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way. - Richard Bach
 
 <!-- QUOTE-END -->
 
