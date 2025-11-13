@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The ability to observe without evaluating is the highest form of intelligence. - Jiddu Krishnamurti
+The future is no more uncertain than the present. - Walt Whitman
 
 <!-- QUOTE-END -->
 
