@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The future is no more uncertain than the present. - Walt Whitman
+There is no path to Happiness. Happiness is the path. - Dan Millman
 
 <!-- QUOTE-END -->
 
