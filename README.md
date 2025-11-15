@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There is no path to Happiness. Happiness is the path. - Dan Millman
+If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - Dalai Lama
 
 <!-- QUOTE-END -->
 
