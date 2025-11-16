@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - Dalai Lama
+The health of nations is more important than the wealth of nations. - Will Rogers
 
 <!-- QUOTE-END -->
 
