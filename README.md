@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The health of nations is more important than the wealth of nations. - Will Rogers
+The only real security that a man can have in this world is a reserve of knowledge, experience and ability.  - Henry Ford
 
 <!-- QUOTE-END -->
 
