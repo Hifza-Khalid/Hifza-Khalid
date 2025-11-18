@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The only real security that a man can have in this world is a reserve of knowledge, experience and ability.  - Henry Ford
+Magic is believing in yourself, if you can do that, you can make anything happen. - Johann Wolfgang von Goethe
 
 <!-- QUOTE-END -->
 
