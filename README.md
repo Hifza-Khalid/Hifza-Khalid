@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Magic is believing in yourself, if you can do that, you can make anything happen. - Johann Wolfgang von Goethe
+Those who bring sunshine into the lives of others cannot keep it from themselves. - James Matthew Barrie
 
 <!-- QUOTE-END -->
 
