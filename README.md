@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Those who bring sunshine into the lives of others cannot keep it from themselves. - James Matthew Barrie
+Because of your smile, you make life more beautiful. - Thich Nhat Hanh
 
 <!-- QUOTE-END -->
 
