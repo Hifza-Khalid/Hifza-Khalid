@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Because of your smile, you make life more beautiful. - Thich Nhat Hanh
+Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean. - Paramahansa Yogananda
 
 <!-- QUOTE-END -->
 
