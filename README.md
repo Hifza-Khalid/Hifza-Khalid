@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I would rather die on my feet than live on my knees. - Euripides
+If you need inspiration, don't do it. - Elon Musk
 
 <!-- QUOTE-END -->
 
