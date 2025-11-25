@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you need inspiration, don't do it. - Elon Musk
+The greatest discovery of all time is that a person can change their future by merely changing their attitude. - Oprah Winfrey
 
 <!-- QUOTE-END -->
 
