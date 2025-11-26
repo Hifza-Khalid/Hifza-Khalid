@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The greatest discovery of all time is that a person can change their future by merely changing their attitude. - Oprah Winfrey
+What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists. - Spencer Johnson
 
 <!-- QUOTE-END -->
 
