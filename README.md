@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists. - Spencer Johnson
+To affect the quality of the day, that is the highest of arts. - Henry David Thoreau
 
 <!-- QUOTE-END -->
 
