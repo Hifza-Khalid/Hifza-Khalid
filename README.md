@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-To affect the quality of the day, that is the highest of arts. - Henry David Thoreau
+Without the confidence, nothing can be accomplished. - Sathya Sai Baba
 
 <!-- QUOTE-END -->
 
