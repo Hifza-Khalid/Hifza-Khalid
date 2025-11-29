@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Without the confidence, nothing can be accomplished. - Sathya Sai Baba
+Keep your dreams, you never know when you might need them. - Carlos Ruiz Zafon
 
 <!-- QUOTE-END -->
 
