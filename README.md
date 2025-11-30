@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Keep your dreams, you never know when you might need them. - Carlos Ruiz Zafon
+No snowflake ever falls in the wrong place. - Zen Proverb
 
 <!-- QUOTE-END -->
 
