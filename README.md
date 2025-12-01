@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No snowflake ever falls in the wrong place. - Zen Proverb
+Do what you can, with what you have, where you are. - Theodore Roosevelt
 
 <!-- QUOTE-END -->
 
