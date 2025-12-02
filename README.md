@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do what you can, with what you have, where you are. - Theodore Roosevelt
+Poetry is written with tears, fiction with blood, and history with invisible ink. - Carlos Ruiz Zafon
 
 <!-- QUOTE-END -->
 
