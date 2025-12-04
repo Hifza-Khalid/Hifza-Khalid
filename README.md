@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Even if you persuade me, you won't persuade me. - Aristophanes
+We lie the loudest when we lie to ourselves. - Eric Hoffer
 
 <!-- QUOTE-END -->
 
