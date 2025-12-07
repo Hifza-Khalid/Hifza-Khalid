@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It does not matter how slowly you go so long as you do not stop. - Confucius
+Life is really simple, but men insist on making it complicated.  - Confucius
 
 <!-- QUOTE-END -->
 
