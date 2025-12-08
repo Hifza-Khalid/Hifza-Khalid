@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life is really simple, but men insist on making it complicated.  - Confucius
+You drown not by falling into a river, but by staying submerged in it. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
