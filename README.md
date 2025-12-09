@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You drown not by falling into a river, but by staying submerged in it. - Paulo Coelho
+Don't hate the player. Change the game. - Steve Harvey
 
 <!-- QUOTE-END -->
 
