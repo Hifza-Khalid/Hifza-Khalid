@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't hate the player. Change the game. - Steve Harvey
+Always forgive your enemies - nothing annoys them so much.  - Oscar Wilde
 
 <!-- QUOTE-END -->
 
