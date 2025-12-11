@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Always forgive your enemies - nothing annoys them so much.  - Oscar Wilde
+A tiny change today brings a dramatically different tomorrow. - Richard Bach
 
 <!-- QUOTE-END -->
 
