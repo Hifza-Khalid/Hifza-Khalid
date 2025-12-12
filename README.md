@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A tiny change today brings a dramatically different tomorrow. - Richard Bach
+The one who praises you is a thief. The one who criticizes you is your true friend. - Seungsahn
 
 <!-- QUOTE-END -->
 
