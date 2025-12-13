@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The one who praises you is a thief. The one who criticizes you is your true friend. - Seungsahn
+What you do today can improve all your tomorrows. - Ralph Marston
 
 <!-- QUOTE-END -->
 
