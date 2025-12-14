@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-What you do today can improve all your tomorrows. - Ralph Marston
+Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. - Spencer Johnson
 
 <!-- QUOTE-END -->
 
