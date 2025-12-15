@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. - Spencer Johnson
+We may not be able to stop evil in the world, but how we treat one another is entirely up to us. - Barack Obama
 
 <!-- QUOTE-END -->
 
