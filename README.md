@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We may not be able to stop evil in the world, but how we treat one another is entirely up to us. - Barack Obama
+My mind seems to have become a kind of machine for grinding general laws out of large collections of facts. - Charles Darwin
 
 <!-- QUOTE-END -->
 
