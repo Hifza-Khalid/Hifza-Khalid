@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-My mind seems to have become a kind of machine for grinding general laws out of large collections of facts. - Charles Darwin
+It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. - Kahlil Gibran
 
 <!-- QUOTE-END -->
 
