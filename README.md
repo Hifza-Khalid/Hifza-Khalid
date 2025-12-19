@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-How many times do you have to get hit over the head until you figure out who's hitting you? - Harry S. Truman
+Great things are not accomplished by those who yield to trends and fads and popular opinion. - Jack Kerouac
 
 <!-- QUOTE-END -->
 
