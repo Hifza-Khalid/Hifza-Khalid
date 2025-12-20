@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Great things are not accomplished by those who yield to trends and fads and popular opinion. - Jack Kerouac
+The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. - Confucius
 
 <!-- QUOTE-END -->
 
