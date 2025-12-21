@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. - Confucius
+You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible. - Norman Vincent Peale
 
 <!-- QUOTE-END -->
 
