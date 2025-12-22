@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible. - Norman Vincent Peale
+If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving. - Martin Luther King, Jr.
 
 <!-- QUOTE-END -->
 
