@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving. - Martin Luther King, Jr.
+Failure is simply the opportunity to begin again, this time more intelligently. - Henry Ford
 
 <!-- QUOTE-END -->
 
