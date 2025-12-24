@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Failure is simply the opportunity to begin again, this time more intelligently. - Henry Ford
+Life happens in the river, not the shore. - Maxime Lagace
 
 <!-- QUOTE-END -->
 
