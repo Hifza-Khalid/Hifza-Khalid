@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life happens in the river, not the shore. - Maxime Lagace
+Don't let the noise of others opinions drown out your inner voice. - Steve Jobs
 
 <!-- QUOTE-END -->
 
