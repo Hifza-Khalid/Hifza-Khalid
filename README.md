@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't let the noise of others opinions drown out your inner voice. - Steve Jobs
+Happiness must be grown in one's own garden. - Mary Engelbreit
 
 <!-- QUOTE-END -->
 
