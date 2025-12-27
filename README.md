@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Happiness must be grown in one's own garden. - Mary Engelbreit
+A good system shortens the road to the goal.  - Orison Swett Marden
 
 <!-- QUOTE-END -->
 
