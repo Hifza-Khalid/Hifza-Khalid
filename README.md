@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A good system shortens the road to the goal.  - Orison Swett Marden
+Lying can never save us from another lie. - Vaclav Havel
 
 <!-- QUOTE-END -->
 
