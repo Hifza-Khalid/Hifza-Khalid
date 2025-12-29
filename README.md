@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Lying can never save us from another lie. - Vaclav Havel
+Victory is always possible for the person who refuses to stop fighting. - Napoleon Hill
 
 <!-- QUOTE-END -->
 
