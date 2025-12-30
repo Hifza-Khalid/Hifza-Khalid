@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Victory is always possible for the person who refuses to stop fighting. - Napoleon Hill
+Find something you love and do it better than everyone else. - Gurbaksh Chahal
 
 <!-- QUOTE-END -->
 
