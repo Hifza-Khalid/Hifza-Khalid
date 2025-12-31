@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Find something you love and do it better than everyone else. - Gurbaksh Chahal
+People should pursue what they're passionate about. That will make them happier than pretty much anything else. - Elon Musk
 
 <!-- QUOTE-END -->
 
