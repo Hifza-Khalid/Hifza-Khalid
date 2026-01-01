@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-People should pursue what they're passionate about. That will make them happier than pretty much anything else. - Elon Musk
+Don't look for meaning in the words. Listen to the silences. - Samuel Beckett
 
 <!-- QUOTE-END -->
 
