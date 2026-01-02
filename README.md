@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't look for meaning in the words. Listen to the silences. - Samuel Beckett
+Better to die fighting for freedom than be a prisoner all the days of your life. - Bob Marley
 
 <!-- QUOTE-END -->
 
