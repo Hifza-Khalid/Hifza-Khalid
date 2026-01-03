@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Better to die fighting for freedom than be a prisoner all the days of your life. - Bob Marley
+Sometimes things become possible if we want them bad enough. - T.S. Eliot
 
 <!-- QUOTE-END -->
 
