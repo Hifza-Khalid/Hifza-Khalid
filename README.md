@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Light a candle instead of cursing the darkness. - Eleanor Roosevelt
+The question is not what you look at, but what you see. - Henry David Thoreau
 
 <!-- QUOTE-END -->
 
