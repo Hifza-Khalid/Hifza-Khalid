@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The question is not what you look at, but what you see. - Henry David Thoreau
+Don't look for meaning in the words. Listen to the silences. - Samuel Beckett
 
 <!-- QUOTE-END -->
 
