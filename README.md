@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't look for meaning in the words. Listen to the silences. - Samuel Beckett
+When you consider things like the stars, our affairs don't seem to matter very much, do they? - Virginia Woolf
 
 <!-- QUOTE-END -->
 
