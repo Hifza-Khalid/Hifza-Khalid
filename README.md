@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-When you consider things like the stars, our affairs don't seem to matter very much, do they? - Virginia Woolf
+It is only depth of character that determines the profundity with which we face life. - Ming-Dao Deng
 
 <!-- QUOTE-END -->
 
