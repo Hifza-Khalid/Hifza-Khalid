@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is only depth of character that determines the profundity with which we face life. - Ming-Dao Deng
+Everyone sees what you appear to be, few experience what you really are. - Niccolo Machiavelli
 
 <!-- QUOTE-END -->
 
