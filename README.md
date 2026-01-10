@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everyone sees what you appear to be, few experience what you really are. - Niccolo Machiavelli
+Smell the cheese often so you know when it is getting old. - Spencer Johnson
 
 <!-- QUOTE-END -->
 
