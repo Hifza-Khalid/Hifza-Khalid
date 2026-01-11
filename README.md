@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Smell the cheese often so you know when it is getting old. - Spencer Johnson
+It's not the love you make. It's the love you give.  - Nikola Tesla
 
 <!-- QUOTE-END -->
 
