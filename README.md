@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It's not the love you make. It's the love you give.  - Nikola Tesla
+Plants grow weak without wind. - Maxime Lagace
 
 <!-- QUOTE-END -->
 
