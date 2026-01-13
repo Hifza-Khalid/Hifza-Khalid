@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Plants grow weak without wind. - Maxime Lagace
+Dreams are for dreamers. Goals are for achievers. - Arnold Schwarzenegger
 
 <!-- QUOTE-END -->
 
