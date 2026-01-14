@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Dreams are for dreamers. Goals are for achievers. - Arnold Schwarzenegger
+Change yourself and you have done your part in changing the world. - Paramahansa Yogananda
 
 <!-- QUOTE-END -->
 
