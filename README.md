@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Change yourself and you have done your part in changing the world. - Paramahansa Yogananda
+The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. - Winston Churchill
 
 <!-- QUOTE-END -->
 
