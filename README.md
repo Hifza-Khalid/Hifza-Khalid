@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. - Winston Churchill
+You can't tell big dreams to small minded people. - Steve Harvey
 
 <!-- QUOTE-END -->
 
