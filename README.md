@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You can't tell big dreams to small minded people. - Steve Harvey
+Whatever you are, be a good one. - Abraham Lincoln
 
 <!-- QUOTE-END -->
 
