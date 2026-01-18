@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Whatever you are, be a good one. - Abraham Lincoln
+Life is like stepping onto a boat which is about to sail out to sea and sink. - Shunryu Suzuki
 
 <!-- QUOTE-END -->
 
