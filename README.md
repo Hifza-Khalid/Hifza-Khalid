@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Know yourself and you will win all battles. - Sun Tzu
+Great loves too must be endured. - Coco Chanel
 
 <!-- QUOTE-END -->
 
