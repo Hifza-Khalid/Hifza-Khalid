@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Great loves too must be endured. - Coco Chanel
+The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting. - Zig Ziglar
 
 <!-- QUOTE-END -->
 
