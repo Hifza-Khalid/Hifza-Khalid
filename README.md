@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting. - Zig Ziglar
+Enthusiasm makes up for a host of deficiencies. - Barack Obama
 
 <!-- QUOTE-END -->
 
