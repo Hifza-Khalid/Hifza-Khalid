@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Enthusiasm makes up for a host of deficiencies. - Barack Obama
+You only live once, but if you do it right, once is enough. - Mae West
 
 <!-- QUOTE-END -->
 
