@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You only live once, but if you do it right, once is enough. - Mae West
+Decide upon your major definite purpose in life and then organize all your activities around it. - Brian Tracy
 
 <!-- QUOTE-END -->
 
