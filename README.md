@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' - Brian Tracy
+The more you trust yourself, the less you compare yourself to others. - Roy T. Bennett
 
 <!-- QUOTE-END -->
 
