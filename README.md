@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The more you trust yourself, the less you compare yourself to others. - Roy T. Bennett
+He who violates another's honor loses his own. - Publilius Syrus
 
 <!-- QUOTE-END -->
 
