@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-He who violates another's honor loses his own. - Publilius Syrus
+Night is a more quiet time to work. It aids thought. - Alexander Graham Bell
 
 <!-- QUOTE-END -->
 
