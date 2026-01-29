@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Night is a more quiet time to work. It aids thought. - Alexander Graham Bell
+Words can only have a positive effect on others if and when they are ready to listen. - Christopher Reeve
 
 <!-- QUOTE-END -->
 
