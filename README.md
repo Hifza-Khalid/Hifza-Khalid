@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Words can only have a positive effect on others if and when they are ready to listen. - Christopher Reeve
+Enlightenment is intimacy with all things. - Dogen
 
 <!-- QUOTE-END -->
 
