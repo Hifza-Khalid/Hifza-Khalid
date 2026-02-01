@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Be true to yourself, help others, make each day your masterpiece - John Wooden
+You already have every characteristic necessary for success if you recognize, claim, develop and use them. - Zig Ziglar
 
 <!-- QUOTE-END -->
 
