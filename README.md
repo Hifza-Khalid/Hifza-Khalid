@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You already have every characteristic necessary for success if you recognize, claim, develop and use them. - Zig Ziglar
+Anything becomes interesting if you look at it long enough.. - Gustave Flaubert
 
 <!-- QUOTE-END -->
 
