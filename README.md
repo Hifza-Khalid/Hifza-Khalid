@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Anything becomes interesting if you look at it long enough.. - Gustave Flaubert
+A golden cage is still just a cage. - Anita Krizzan
 
 <!-- QUOTE-END -->
 
