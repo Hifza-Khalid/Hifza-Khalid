@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A golden cage is still just a cage. - Anita Krizzan
+You're on earth. There's no cure for that. - Samuel Beckett
 
 <!-- QUOTE-END -->
 
