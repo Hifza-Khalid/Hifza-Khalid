@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You're on earth. There's no cure for that. - Samuel Beckett
+True knowledge exists in knowing that you know nothing. - Socrates
 
 <!-- QUOTE-END -->
 
