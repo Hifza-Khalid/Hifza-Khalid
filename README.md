@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-True knowledge exists in knowing that you know nothing. - Socrates
+Excellence is not an exception, it is a prevailing attitude. - Colin Powell
 
 <!-- QUOTE-END -->
 
