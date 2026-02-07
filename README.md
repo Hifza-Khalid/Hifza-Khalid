@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Excellence is not an exception, it is a prevailing attitude. - Colin Powell
+There is nothing more truly artistic than to love people. - Vincent van Gogh
 
 <!-- QUOTE-END -->
 
