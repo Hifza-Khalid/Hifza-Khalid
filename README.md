@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There is nothing more truly artistic than to love people. - Vincent van Gogh
+Success is liking yourself, liking what you do, and liking how you do it. - Maya Angelou
 
 <!-- QUOTE-END -->
 
