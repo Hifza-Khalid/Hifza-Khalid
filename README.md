@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Success is liking yourself, liking what you do, and liking how you do it. - Maya Angelou
+If you have to be in a soap opera try not to be cast in the worst role. - Judy Garland
 
 <!-- QUOTE-END -->
 
