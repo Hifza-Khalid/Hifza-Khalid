@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you have to be in a soap opera try not to be cast in the worst role. - Judy Garland
+Make each day your masterpiece. - John Wooden
 
 <!-- QUOTE-END -->
 
