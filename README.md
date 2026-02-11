@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Make each day your masterpiece. - John Wooden
+FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours. - Zig Ziglar
 
 <!-- QUOTE-END -->
 
