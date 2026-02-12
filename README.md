@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours. - Zig Ziglar
+The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality. - Brian Tracy
 
 <!-- QUOTE-END -->
 
