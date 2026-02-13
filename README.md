@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality. - Brian Tracy
+Turn your wounds into wisdom.  - Oprah Winfrey
 
 <!-- QUOTE-END -->
 
