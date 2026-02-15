@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you. - Jeffrey Gitomer
+Every day do something that will inch you closer to a better tomorrow. - Unknown
 
 <!-- QUOTE-END -->
 
