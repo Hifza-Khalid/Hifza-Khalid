@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Every day do something that will inch you closer to a better tomorrow. - Unknown
+Change is never easy, but always possible. - Barack Obama
 
 <!-- QUOTE-END -->
 
