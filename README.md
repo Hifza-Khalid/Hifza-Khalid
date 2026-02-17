@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Change is never easy, but always possible. - Barack Obama
+We cannot expect to be happy always... by experiencing evil as well as good we become wise. - Hans Christian Andersen
 
 <!-- QUOTE-END -->
 
