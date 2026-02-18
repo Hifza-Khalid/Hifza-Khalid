@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We cannot expect to be happy always... by experiencing evil as well as good we become wise. - Hans Christian Andersen
+Your problem isn't the problem. Your reaction is the problem. - Unknown
 
 <!-- QUOTE-END -->
 
