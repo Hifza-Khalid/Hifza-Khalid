@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Success is getting what you want... Happiness is wanting what you get. - Dale Carnegie
+You can't wait for inspiration. You have to go after it with a club.  - Jack London
 
 <!-- QUOTE-END -->
 
