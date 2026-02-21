@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You can't wait for inspiration. You have to go after it with a club.  - Jack London
+The wise warrior avoids the battle. - Sun Tzu
 
 <!-- QUOTE-END -->
 
