@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The wise warrior avoids the battle. - Sun Tzu
+Over time, loneliness gets inside you and doesn't go away. - Carlos Ruiz Zafon
 
 <!-- QUOTE-END -->
 
