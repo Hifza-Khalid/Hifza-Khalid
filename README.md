@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Over time, loneliness gets inside you and doesn't go away. - Carlos Ruiz Zafon
+Why live an ordinary life, when you can live an extraordinary one. - Tony Robbins
 
 <!-- QUOTE-END -->
 
