@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Why live an ordinary life, when you can live an extraordinary one. - Tony Robbins
+You can have results or excuses, but not both. - Arnold Schwarzenegger
 
 <!-- QUOTE-END -->
 
