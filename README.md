@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You can have results or excuses, but not both. - Arnold Schwarzenegger
+The farther backward you can look, the farther forward you are likely to see. - Winston Churchill
 
 <!-- QUOTE-END -->
 
