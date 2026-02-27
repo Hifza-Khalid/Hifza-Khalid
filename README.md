@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You will succeed because most people are lazy. - Shahir Zag
+One small positive thought can change your whole day. - Zig Ziglar
 
 <!-- QUOTE-END -->
 
