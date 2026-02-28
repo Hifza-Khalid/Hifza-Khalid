@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-One small positive thought can change your whole day. - Zig Ziglar
+It is passion that makes man live; wisdom makes one only last. - Nicolas Chamfort
 
 <!-- QUOTE-END -->
 
