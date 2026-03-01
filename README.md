@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is passion that makes man live; wisdom makes one only last. - Nicolas Chamfort
+The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  - Orison Swett Marden
 
 <!-- QUOTE-END -->
 
