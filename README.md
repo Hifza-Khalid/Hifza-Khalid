@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  - Orison Swett Marden
+If we did all the things we are capable of, we would literally astound ourselves. - Thomas Edison
 
 <!-- QUOTE-END -->
 
