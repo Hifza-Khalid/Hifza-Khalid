@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If we did all the things we are capable of, we would literally astound ourselves. - Thomas Edison
+You talk when you cease to be at peace with your thoughts. - Kahlil Gibran
 
 <!-- QUOTE-END -->
 
