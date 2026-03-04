@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You talk when you cease to be at peace with your thoughts. - Kahlil Gibran
+You can't tell big dreams to small minded people. - Steve Harvey
 
 <!-- QUOTE-END -->
 
