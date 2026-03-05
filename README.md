@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You can't tell big dreams to small minded people. - Steve Harvey
+Plants grow weak without wind. - Maxime Lagace
 
 <!-- QUOTE-END -->
 
