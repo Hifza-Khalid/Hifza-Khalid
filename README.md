@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Plants grow weak without wind. - Maxime Lagace
+Management is doing things right; leadership is doing the right things. - Peter Drucker
 
 <!-- QUOTE-END -->
 
