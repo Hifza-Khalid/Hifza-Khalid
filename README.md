@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Management is doing things right; leadership is doing the right things. - Peter Drucker
+Pleasure is always derived from something outside you, whereas joy arises from within.  - Eckhart Tolle
 
 <!-- QUOTE-END -->
 
