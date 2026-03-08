@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Pleasure is always derived from something outside you, whereas joy arises from within.  - Eckhart Tolle
+Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it. - Robert Frost
 
 <!-- QUOTE-END -->
 
