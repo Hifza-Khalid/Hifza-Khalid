@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it. - Robert Frost
+Never let the things you can't do stop you from doing what you can. - Ronald Reagan
 
 <!-- QUOTE-END -->
 
