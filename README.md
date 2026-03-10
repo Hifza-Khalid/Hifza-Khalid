@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Never let the things you can't do stop you from doing what you can. - Ronald Reagan
+Only when I fall do I get up again. - Vincent van Gogh
 
 <!-- QUOTE-END -->
 
