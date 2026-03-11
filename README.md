@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Only when I fall do I get up again. - Vincent van Gogh
+Reality is the leading cause of stress among those in touch with it. - Lily Tomlin
 
 <!-- QUOTE-END -->
 
