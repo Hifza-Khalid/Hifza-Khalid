@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The greatest gift that you can give to others is the gift of unconditional love and acceptance.  - Brian Tracy
+Successful people ask better questions, and as a result, they get better answers. - Tony Robbins
 
 <!-- QUOTE-END -->
 
