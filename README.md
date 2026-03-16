@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Successful people ask better questions, and as a result, they get better answers. - Tony Robbins
+Judge your success by what you had to give up in order to get it. - Dalai Lama
 
 <!-- QUOTE-END -->
 
