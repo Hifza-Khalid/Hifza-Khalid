@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Judge your success by what you had to give up in order to get it. - Dalai Lama
+The less you talk about your shame, the more of it you have. - Mark Manson
 
 <!-- QUOTE-END -->
 
