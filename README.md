@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The less you talk about your shame, the more of it you have. - Mark Manson
+If you want more luck, take more chances. - Brian Tracy
 
 <!-- QUOTE-END -->
 
