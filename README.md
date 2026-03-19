@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you want more luck, take more chances. - Brian Tracy
+Knowing is not enough, we must apply. Willing is not enough, we must do. - Johann Wolfgang von Goethe
 
 <!-- QUOTE-END -->
 
