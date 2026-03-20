@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Knowing is not enough, we must apply. Willing is not enough, we must do. - Johann Wolfgang von Goethe
+The first principle of success is desire. - Robert Collier
 
 <!-- QUOTE-END -->
 
