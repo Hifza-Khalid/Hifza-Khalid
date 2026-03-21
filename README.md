@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The first principle of success is desire. - Robert Collier
+Learning is a gift, even when pain is your teacher. - Michael Jordan
 
 <!-- QUOTE-END -->
 
