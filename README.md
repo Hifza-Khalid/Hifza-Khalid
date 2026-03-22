@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Learning is a gift, even when pain is your teacher. - Michael Jordan
+All animals except man know that the principal business of life is to enjoy it. - Samuel Butler
 
 <!-- QUOTE-END -->
 
