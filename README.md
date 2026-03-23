@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-All animals except man know that the principal business of life is to enjoy it. - Samuel Butler
+A fear of weakness only strengthens weakness. - Criss Jami
 
 <!-- QUOTE-END -->
 
