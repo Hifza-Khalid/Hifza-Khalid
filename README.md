@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A fear of weakness only strengthens weakness. - Criss Jami
+When you repeat a mistake, it is not a mistake anymore: it is a decision. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
