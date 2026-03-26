@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The heart that gives, gathers. - Lao Tzu
+Make yourself so useful to other people, that they think you are irreplaceable. - Og Mandino
 
 <!-- QUOTE-END -->
 
