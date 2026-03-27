@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Make yourself so useful to other people, that they think you are irreplaceable. - Og Mandino
+Every poem should remind the reader that they are going to die. - Edgar Allan Poe
 
 <!-- QUOTE-END -->
 
