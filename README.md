@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Every poem should remind the reader that they are going to die. - Edgar Allan Poe
+No one can compete with you on being you. Most of life is a search for who and what needs you the most. - Naval Ravikant
 
 <!-- QUOTE-END -->
 
