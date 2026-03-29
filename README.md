@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No one can compete with you on being you. Most of life is a search for who and what needs you the most. - Naval Ravikant
+If fear is too strong, the genius is suppressed. - Robert Kiyosaki
 
 <!-- QUOTE-END -->
 
