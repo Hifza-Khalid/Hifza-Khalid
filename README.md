@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If fear is too strong, the genius is suppressed. - Robert Kiyosaki
+Life is a constant series of opportunities. - Ming-Dao Deng
 
 <!-- QUOTE-END -->
 
