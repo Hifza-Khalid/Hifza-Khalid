@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life is a constant series of opportunities. - Ming-Dao Deng
+When you lose your desire for things that do not matter, you will be free. - Morihei Ueshiba
 
 <!-- QUOTE-END -->
 
