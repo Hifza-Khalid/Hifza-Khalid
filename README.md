@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-When you lose your desire for things that do not matter, you will be free. - Morihei Ueshiba
+It's not the size of the dog in the fight, it's the size of the fight in the dog. - Mark Twain
 
 <!-- QUOTE-END -->
 
