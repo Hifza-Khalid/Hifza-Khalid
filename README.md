@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It's not the size of the dog in the fight, it's the size of the fight in the dog. - Mark Twain
+Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition. - John Eliot
 
 <!-- QUOTE-END -->
 
