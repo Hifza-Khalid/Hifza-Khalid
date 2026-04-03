@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition. - John Eliot
+Don't spend major time on minor things. - Jim Rohn
 
 <!-- QUOTE-END -->
 
