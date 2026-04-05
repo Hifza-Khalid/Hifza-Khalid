@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries. - Amelia Earhart
+Happiness cannot be traveled to, owned, earned, worn or consumed. - Denis Waitley
 
 <!-- QUOTE-END -->
 
