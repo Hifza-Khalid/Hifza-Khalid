@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Happiness cannot be traveled to, owned, earned, worn or consumed. - Denis Waitley
+Think and wonder, wonder and think. - Dr. Seuss
 
 <!-- QUOTE-END -->
 
