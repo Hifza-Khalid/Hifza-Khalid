@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-
+All great truths begin as blasphemies. - George Bernard Shaw
 
 <!-- QUOTE-END -->
 
