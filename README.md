@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Discipline yourself, and others won't need to. - John Wooden
+What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. - T.S. Eliot
 
 <!-- QUOTE-END -->
 
