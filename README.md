@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. - T.S. Eliot
+What loneliness is more lonely than distrust? - George Eliot
 
 <!-- QUOTE-END -->
 
