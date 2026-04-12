@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-What loneliness is more lonely than distrust? - George Eliot
+I dream my painting and I paint my dream. - Vincent van Gogh
 
 <!-- QUOTE-END -->
 
