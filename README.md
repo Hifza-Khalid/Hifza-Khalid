@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I dream my painting and I paint my dream. - Vincent van Gogh
+Your vision will become clear only when you can look into your own heart. - Lolly Daskal
 
 <!-- QUOTE-END -->
 
