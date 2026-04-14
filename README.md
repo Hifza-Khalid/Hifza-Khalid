@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Your vision will become clear only when you can look into your own heart. - Lolly Daskal
+A gentleman accepts the responsibility of his actions and bears the burden of their consequences. - William Faulkner
 
 <!-- QUOTE-END -->
 
