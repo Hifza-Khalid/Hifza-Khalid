@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A gentleman accepts the responsibility of his actions and bears the burden of their consequences. - William Faulkner
+A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will. - James Allen
 
 <!-- QUOTE-END -->
 
