@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-When you stop questioning, you stop learning. - Lolly Daskal
+Adults are just children who earn money. - Kenneth Branagh
 
 <!-- QUOTE-END -->
 
