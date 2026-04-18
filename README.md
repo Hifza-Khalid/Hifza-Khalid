@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Adults are just children who earn money. - Kenneth Branagh
+Intense love does not measure, it just gives. - Mother Teresa
 
 <!-- QUOTE-END -->
 
