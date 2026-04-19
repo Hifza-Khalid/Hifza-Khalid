@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Intense love does not measure, it just gives. - Mother Teresa
+Progress lies not in enhancing what is, but in advancing toward what will be. - Kahlil Gibran
 
 <!-- QUOTE-END -->
 
