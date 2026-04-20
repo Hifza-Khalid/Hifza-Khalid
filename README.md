@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Progress lies not in enhancing what is, but in advancing toward what will be. - Kahlil Gibran
+People who belittle people, will be LITTLE people, and will accomplish very Little - Norman Vincent Peale
 
 <!-- QUOTE-END -->
 
