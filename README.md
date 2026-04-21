@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-People who belittle people, will be LITTLE people, and will accomplish very Little - Norman Vincent Peale
+Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. - Peter Drucker
 
 <!-- QUOTE-END -->
 
