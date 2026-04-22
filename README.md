@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. - Peter Drucker
+Your mind is infinite, it's your doubts that are limiting. - Robert Kiyosaki
 
 <!-- QUOTE-END -->
 
