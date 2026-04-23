@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Your mind is infinite, it's your doubts that are limiting. - Robert Kiyosaki
+It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society. - Jiddu Krishnamurti
 
 <!-- QUOTE-END -->
 
