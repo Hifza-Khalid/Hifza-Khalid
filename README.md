@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society. - Jiddu Krishnamurti
+Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - Ayn Rand
 
 <!-- QUOTE-END -->
 
