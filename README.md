@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - Ayn Rand
+A gentleman is one who puts more into the world than he takes out. - George Bernard Shaw
 
 <!-- QUOTE-END -->
 
