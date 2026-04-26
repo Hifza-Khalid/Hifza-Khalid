@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A gentleman is one who puts more into the world than he takes out. - George Bernard Shaw
+Do not use life to give life to death. Do not use death to bring death to life. - Zhuangzi
 
 <!-- QUOTE-END -->
 
