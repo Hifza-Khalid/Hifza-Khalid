@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do not use life to give life to death. Do not use death to bring death to life. - Zhuangzi
+Changing minds is harder than finding people who already agree. - Jack Butcher
 
 <!-- QUOTE-END -->
 
