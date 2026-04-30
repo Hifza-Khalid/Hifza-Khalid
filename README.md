@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No one can compete with you on being you. Most of life is a search for who and what needs you the most. - Naval Ravikant
+Whatever you think the world is withholding from you, you are withholding from the world. - Eckhart Tolle
 
 <!-- QUOTE-END -->
 
