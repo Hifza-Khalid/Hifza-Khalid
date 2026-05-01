@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Whatever you think the world is withholding from you, you are withholding from the world. - Eckhart Tolle
+Gratitude is the fairest blossom which springs from the soul. - Henry Ward Beecher
 
 <!-- QUOTE-END -->
 
