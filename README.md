@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Gratitude is the fairest blossom which springs from the soul. - Henry Ward Beecher
+Weeds are flowers too, once you get to know them. - A.A. Milne
 
 <!-- QUOTE-END -->
 
