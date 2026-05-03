@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Weeds are flowers too, once you get to know them. - A.A. Milne
+Be not glad at the misfortune of another, though he may be your enemy.  - George Washington
 
 <!-- QUOTE-END -->
 
