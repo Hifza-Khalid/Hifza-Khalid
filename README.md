@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Be not glad at the misfortune of another, though he may be your enemy.  - George Washington
+Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  - Samuel Beckett
 
 <!-- QUOTE-END -->
 
