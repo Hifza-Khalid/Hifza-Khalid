@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  - Samuel Beckett
+A man is literally what he thinks. - James Allen
 
 <!-- QUOTE-END -->
 
