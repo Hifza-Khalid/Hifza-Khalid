@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You have to give up some of the old so that you can make room for the new. - Yanni
+A loving heart is the truest wisdom. - Charles Dickens
 
 <!-- QUOTE-END -->
 
