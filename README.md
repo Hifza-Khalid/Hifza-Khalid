@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-All has not been said and never will be. - Samuel Beckett
+Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt. - Honore de Balzac
 
 <!-- QUOTE-END -->
 
