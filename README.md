@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt. - Honore de Balzac
+Being a good example is the best form of service. - Sathya Sai Baba
 
 <!-- QUOTE-END -->
 
