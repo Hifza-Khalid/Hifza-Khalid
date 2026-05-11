@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Being a good example is the best form of service. - Sathya Sai Baba
+Do not allow your inner doubts to keep you from achieving what you can do. - Lolly Daskal
 
 <!-- QUOTE-END -->
 
