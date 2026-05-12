@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do not allow your inner doubts to keep you from achieving what you can do. - Lolly Daskal
+
 
 <!-- QUOTE-END -->
 
