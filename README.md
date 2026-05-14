@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Learn from the rejection and turn it into an opportunity! - Mary Engelbreit
+The search for happiness is one of the chief sources of unhappiness. - Eric Hoffer
 
 <!-- QUOTE-END -->
 
