@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The search for happiness is one of the chief sources of unhappiness. - Eric Hoffer
+The person who never made a mistake never tried anything new. - Albert Einstein
 
 <!-- QUOTE-END -->
 
