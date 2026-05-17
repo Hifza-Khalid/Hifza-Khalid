@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do not bite at the bait of pleasure, till you know there is no hook beneath it. - Thomas Jefferson
+It's not whether you get knocked down, its whether you get back up. - Vince Lombardi
 
 <!-- QUOTE-END -->
 
