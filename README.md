@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It's not whether you get knocked down, its whether you get back up. - Vince Lombardi
+There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. - Elbert Hubbard
 
 <!-- QUOTE-END -->
 
