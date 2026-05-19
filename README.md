@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. - Elbert Hubbard
+I will not walk backward in life. - J.R.R. Tolkien
 
 <!-- QUOTE-END -->
 
