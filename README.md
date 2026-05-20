@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I will not walk backward in life. - J.R.R. Tolkien
+It all depends on what you choose to believe. - Spencer Johnson
 
 <!-- QUOTE-END -->
 
