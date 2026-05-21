@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It all depends on what you choose to believe. - Spencer Johnson
+Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! - Tony Robbins
 
 <!-- QUOTE-END -->
 
