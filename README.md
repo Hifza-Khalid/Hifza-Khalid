@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! - Tony Robbins
+Growth is in a series of mistakes. That's the only way you learn. - Steve Harvey
 
 <!-- QUOTE-END -->
 
