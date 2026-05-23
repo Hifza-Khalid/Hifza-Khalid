@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Growth is in a series of mistakes. That's the only way you learn. - Steve Harvey
+It's easier to lose than to win.   - Wayne Gretzky
 
 <!-- QUOTE-END -->
 
