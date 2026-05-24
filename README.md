@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It's easier to lose than to win.   - Wayne Gretzky
+At first dreams seem impossible, then improbable, then inevitable. - Christopher Reeve
 
 <!-- QUOTE-END -->
 
