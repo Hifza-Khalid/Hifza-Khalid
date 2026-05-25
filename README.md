@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-At first dreams seem impossible, then improbable, then inevitable. - Christopher Reeve
+A clear conscience is the sure sign of a bad memory. - Mark Twain
 
 <!-- QUOTE-END -->
 
