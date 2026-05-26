@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A clear conscience is the sure sign of a bad memory. - Mark Twain
+I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in. - Virginia Woolf
 
 <!-- QUOTE-END -->
 
