@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in. - Virginia Woolf
+The only way round is through. - Robert Frost
 
 <!-- QUOTE-END -->
 
