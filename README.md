@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The only way round is through. - Robert Frost
+There are no differences but differences of degree between different degrees of difference and no difference. - William James
 
 <!-- QUOTE-END -->
 
