@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There are no differences but differences of degree between different degrees of difference and no difference. - William James
+Never buy a thing you do not want, because it is cheap, it will be dear to you. - Thomas Jefferson
 
 <!-- QUOTE-END -->
 
