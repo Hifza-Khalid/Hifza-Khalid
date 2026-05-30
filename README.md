@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Never buy a thing you do not want, because it is cheap, it will be dear to you. - Thomas Jefferson
+Success on the outside means nothing unless you also have success within. - Robin Sharma
 
 <!-- QUOTE-END -->
 
