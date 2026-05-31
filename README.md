@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Success on the outside means nothing unless you also have success within. - Robin Sharma
+The number one cause of failure is the fear of failure. - Steve Harvey
 
 <!-- QUOTE-END -->
 
