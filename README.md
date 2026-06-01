@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The number one cause of failure is the fear of failure. - Steve Harvey
+I am thankful to all who said no to me. It is because of them that I'm doing it myself. - Albert Einstein
 
 <!-- QUOTE-END -->
 
