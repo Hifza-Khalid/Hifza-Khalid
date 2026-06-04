@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life is a traveling to the edge of knowledge, then a leap taken. - D. H. Lawrence
+The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly. - Marcus Aurelius
 
 <!-- QUOTE-END -->
 
