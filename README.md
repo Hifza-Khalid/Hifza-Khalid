@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly. - Marcus Aurelius
+The way of success is the way of continuous pursuit of knowledge. - Napoleon Hill
 
 <!-- QUOTE-END -->
 
