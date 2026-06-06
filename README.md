@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The way of success is the way of continuous pursuit of knowledge. - Napoleon Hill
+All problems are interpersonal relationship problems. - Alfred Adler
 
 <!-- QUOTE-END -->
 
