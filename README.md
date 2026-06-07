@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-All problems are interpersonal relationship problems. - Alfred Adler
+Relax. Nothing is under control. - Adi Da Samraj
 
 <!-- QUOTE-END -->
 
