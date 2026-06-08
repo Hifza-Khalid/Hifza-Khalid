@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Relax. Nothing is under control. - Adi Da Samraj
+You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. - Anita Krizzan
 
 <!-- QUOTE-END -->
 
