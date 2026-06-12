@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is only depth of character that determines the profundity with which we face life. - Ming-Dao Deng
+No man ever steps in the same river twice, for it's not the same river and he's not the same man. - Heraclitus
 
 <!-- QUOTE-END -->
 
