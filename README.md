@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No man ever steps in the same river twice, for it's not the same river and he's not the same man. - Heraclitus
+Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy. - Celestine Chua
 
 <!-- QUOTE-END -->
 
