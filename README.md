@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy. - Celestine Chua
+What we dwell on is who we become. - Oprah Winfrey
 
 <!-- QUOTE-END -->
 
