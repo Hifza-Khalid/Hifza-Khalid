@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. - Ronald Reagan
+Turn the pain into power. - Unknown
 
 <!-- QUOTE-END -->
 
