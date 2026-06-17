@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Turn the pain into power. - Unknown
+There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them. - Denis Waitley
 
 <!-- QUOTE-END -->
 
