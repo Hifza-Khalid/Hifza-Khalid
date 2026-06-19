@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There is no path to Love. Love is the path. - Dan Millman
+Whether you think you can or think you can't – you are right. - Henry Ford
 
 <!-- QUOTE-END -->
 
