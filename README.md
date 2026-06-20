@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Whether you think you can or think you can't – you are right. - Henry Ford
+He who leaves the game wins it. - Nicolas Chamfort
 
 <!-- QUOTE-END -->
 
