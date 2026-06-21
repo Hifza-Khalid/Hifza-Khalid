@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-He who leaves the game wins it. - Nicolas Chamfort
+Poetry is written with tears, fiction with blood, and history with invisible ink. - Carlos Ruiz Zafon
 
 <!-- QUOTE-END -->
 
