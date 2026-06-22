@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Poetry is written with tears, fiction with blood, and history with invisible ink. - Carlos Ruiz Zafon
+Don't allow your mind to tell your heart what to do. The mind gives up easily. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
