@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't allow your mind to tell your heart what to do. The mind gives up easily. - Paulo Coelho
+It is better to offer no excuse than a bad one. - George Washington
 
 <!-- QUOTE-END -->
 
