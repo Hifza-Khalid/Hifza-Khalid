@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is better to offer no excuse than a bad one. - George Washington
+We think too much and feel too little. - Charlie Chaplin
 
 <!-- QUOTE-END -->
 
