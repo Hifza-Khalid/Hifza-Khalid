@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We think too much and feel too little. - Charlie Chaplin
+I cannot make my days longer so I strive to make them better. - Henry David Thoreau
 
 <!-- QUOTE-END -->
 
