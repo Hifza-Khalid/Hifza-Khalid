@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I cannot make my days longer so I strive to make them better. - Henry David Thoreau
+I try more and more to be myself, caring relatively little whether people approve or disapprove. - Vincent van Gogh
 
 <!-- QUOTE-END -->
 
