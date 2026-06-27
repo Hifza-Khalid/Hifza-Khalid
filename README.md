@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I try more and more to be myself, caring relatively little whether people approve or disapprove. - Vincent van Gogh
+Adults are just children who earn money. - Kenneth Branagh
 
 <!-- QUOTE-END -->
 
