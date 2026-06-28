@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Adults are just children who earn money. - Kenneth Branagh
+The greatest test of courage on earth is to bear defeat without losing heart. - Robert Greene
 
 <!-- QUOTE-END -->
 
