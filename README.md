@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The greatest test of courage on earth is to bear defeat without losing heart. - Robert Greene
+Fear is your worst enemy. Risk is your best friend. - Gurbaksh Chahal
 
 <!-- QUOTE-END -->
 
