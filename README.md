@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Fear is your worst enemy. Risk is your best friend. - Gurbaksh Chahal
+Don't blame others. it won't make you a better person. - Lolly Daskal
 
 <!-- QUOTE-END -->
 
