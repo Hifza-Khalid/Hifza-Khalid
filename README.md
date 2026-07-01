@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't blame others. it won't make you a better person. - Lolly Daskal
+Self-knowledge is the beginning of self-correction. - Norman Vincent Peale
 
 <!-- QUOTE-END -->
 
