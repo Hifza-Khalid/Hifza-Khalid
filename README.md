@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Self-knowledge is the beginning of self-correction. - Norman Vincent Peale
+We lie the loudest when we lie to ourselves. - Eric Hoffer
 
 <!-- QUOTE-END -->
 
