@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We lie the loudest when we lie to ourselves. - Eric Hoffer
+In peace, sons bury their fathers. In war, fathers bury their sons. - Herodotus
 
 <!-- QUOTE-END -->
 
