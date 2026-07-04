@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-In peace, sons bury their fathers. In war, fathers bury their sons. - Herodotus
+We love the things we love for what they are. - Robert Frost
 
 <!-- QUOTE-END -->
 
