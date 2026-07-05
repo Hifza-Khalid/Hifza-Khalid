@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We love the things we love for what they are. - Robert Frost
+The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. - Mark Twain
 
 <!-- QUOTE-END -->
 
