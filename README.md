@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. - Mark Twain
+Art is the signature of civilizations. - Beverly Sills
 
 <!-- QUOTE-END -->
 
