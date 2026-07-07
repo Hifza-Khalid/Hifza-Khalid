@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Art is the signature of civilizations. - Beverly Sills
+We can see through others only when we can see through ourselves. - Bruce Lee
 
 <!-- QUOTE-END -->
 
