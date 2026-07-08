@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We can see through others only when we can see through ourselves. - Bruce Lee
+You are the only real obstacle in your path to a fulfilling life. - Les Brown
 
 <!-- QUOTE-END -->
 
