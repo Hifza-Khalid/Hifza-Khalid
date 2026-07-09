@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You are the only real obstacle in your path to a fulfilling life. - Les Brown
+One of the keys to happiness is a bad memory. - Rita Mae Brown
 
 <!-- QUOTE-END -->
 
