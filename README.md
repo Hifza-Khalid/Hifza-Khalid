@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-One of the keys to happiness is a bad memory. - Rita Mae Brown
+If you try to micromanage yourself all you're going to do is make yourself miserable. - Naval Ravikant
 
 <!-- QUOTE-END -->
 
