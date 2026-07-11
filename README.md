@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you try to micromanage yourself all you're going to do is make yourself miserable. - Naval Ravikant
+Throughout this life, you can never be certain of living long enough to take another breath. - Huang Po
 
 <!-- QUOTE-END -->
 
