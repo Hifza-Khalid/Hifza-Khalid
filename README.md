@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Throughout this life, you can never be certain of living long enough to take another breath. - Huang Po
+No man is more cheated than the selfish man. - Henry Ward Beecher
 
 <!-- QUOTE-END -->
 
