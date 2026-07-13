@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No man is more cheated than the selfish man. - Henry Ward Beecher
+You must either modify your dreams or magnify your skills. - Jim Rohn
 
 <!-- QUOTE-END -->
 
