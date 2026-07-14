@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You must either modify your dreams or magnify your skills. - Jim Rohn
+All problems are interpersonal relationship problems. - Alfred Adler
 
 <!-- QUOTE-END -->
 
