@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We take care of the future best by taking care of the present now. - Jon Kabat-Zinn
+Every blessing ignored becomes a curse. - Paulo Coelho
 
 <!-- QUOTE-END -->
 
