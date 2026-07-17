@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Every blessing ignored becomes a curse. - Paulo Coelho
+Discontent is the first necessity of progress. - Thomas Edison
 
 <!-- QUOTE-END -->
 
