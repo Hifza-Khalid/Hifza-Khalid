@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Discontent is the first necessity of progress. - Thomas Edison
+What do we live for if not to make life less difficult for each other? - T.S. Eliot
 
 <!-- QUOTE-END -->
 
