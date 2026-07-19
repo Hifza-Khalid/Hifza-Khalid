@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-What do we live for if not to make life less difficult for each other? - T.S. Eliot
+A man who dares to waste one hour of time has not discovered the value of life. - Charles Darwin
 
 <!-- QUOTE-END -->
 
