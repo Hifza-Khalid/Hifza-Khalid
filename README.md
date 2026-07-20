@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A man who dares to waste one hour of time has not discovered the value of life. - Charles Darwin
+All men who have achieved great things have been great dreamers. - Orison Swett Marden
 
 <!-- QUOTE-END -->
 
