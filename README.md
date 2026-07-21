@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-All men who have achieved great things have been great dreamers. - Orison Swett Marden
+We don't stop playing because we grow old; we grow old because we stop playing. - George Bernard Shaw
 
 <!-- QUOTE-END -->
 
