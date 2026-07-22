@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We don't stop playing because we grow old; we grow old because we stop playing. - George Bernard Shaw
+Your time is limited, don't waste it living someone else's life. - Colin R. Davis
 
 <!-- QUOTE-END -->
 
