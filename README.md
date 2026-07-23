@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Your time is limited, don't waste it living someone else's life. - Colin R. Davis
+Your neighbor is the man who needs you. - Elbert Hubbard
 
 <!-- QUOTE-END -->
 
