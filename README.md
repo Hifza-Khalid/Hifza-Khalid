@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Your neighbor is the man who needs you. - Elbert Hubbard
+Expect the best, plan for the worst, and prepare to be surprised. - Denis Waitley
 
 <!-- QUOTE-END -->
 
