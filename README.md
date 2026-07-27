@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Every man gotta right to decide his own destiny. - Bob Marley
+The wisest men follow their own direction. - Euripides
 
 <!-- QUOTE-END -->
 
