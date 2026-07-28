@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The wisest men follow their own direction. - Euripides
+The more something scares you, the more you should do it. - Mark Manson
 
 <!-- QUOTE-END -->
 
