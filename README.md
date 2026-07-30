@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You can have it all. You just can't have it all at once. - Oprah Winfrey
+A little impatience will spoil great plans. - Chinese Proverb
 
 <!-- QUOTE-END -->
 
