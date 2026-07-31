@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A little impatience will spoil great plans. - Chinese Proverb
+A friend to all is a friend to none. - Aristotle
 
 <!-- QUOTE-END -->
 
