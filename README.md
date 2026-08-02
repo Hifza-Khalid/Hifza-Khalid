@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You can have it all. You just can't have it all at once. - Oprah Winfrey
+The dead receive more flowers than the living because regret is stronger than gratitude. - Anne Frank
 
 <!-- QUOTE-END -->
 
