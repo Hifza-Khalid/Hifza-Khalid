@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The dead receive more flowers than the living because regret is stronger than gratitude. - Anne Frank
+A moving door hinge never corrodes. Flowing water never grows stagnant. - Ming-Dao Deng
 
 <!-- QUOTE-END -->
 
