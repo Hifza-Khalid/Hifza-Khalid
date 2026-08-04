@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A moving door hinge never corrodes. Flowing water never grows stagnant. - Ming-Dao Deng
+True knowledge exists in knowing that you know nothing. - Socrates
 
 <!-- QUOTE-END -->
 
