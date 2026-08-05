@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-True knowledge exists in knowing that you know nothing. - Socrates
+Discipline is the bridge between goals and accomplishment. - Jim Rohn
 
 <!-- QUOTE-END -->
 
