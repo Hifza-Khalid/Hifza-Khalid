@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Discipline is the bridge between goals and accomplishment. - Jim Rohn
+If you cannot control your emotions, you cannot control your money. - Warren Buffett
 
 <!-- QUOTE-END -->
 
