@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you cannot control your emotions, you cannot control your money. - Warren Buffett
+Life's too mysterious to take too serious. - Mary Engelbreit
 
 <!-- QUOTE-END -->
 
