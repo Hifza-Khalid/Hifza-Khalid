@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life's too mysterious to take too serious. - Mary Engelbreit
+Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in. - Robert Greene
 
 <!-- QUOTE-END -->
 
