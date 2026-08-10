@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The more something threatens your identity, the more you will avoid it. - Mark Manson
+You are not one person, but three: The one you think you are; The one others think you are; The one you really are. - Sathya Sai Baba
 
 <!-- QUOTE-END -->
 
