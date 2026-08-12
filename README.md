@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There's no next time. It's now or never. - Celestine Chua
+The best way to not feel hopeless is to get up and do something. - Barack Obama
 
 <!-- QUOTE-END -->
 
