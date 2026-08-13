@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The best way to not feel hopeless is to get up and do something. - Barack Obama
+People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily. - Zig Ziglar
 
 <!-- QUOTE-END -->
 
