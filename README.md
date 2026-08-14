@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily. - Zig Ziglar
+Discontent is the first necessity of progress. - Thomas Edison
 
 <!-- QUOTE-END -->
 
