@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Discontent is the first necessity of progress. - Thomas Edison
+The guest will judge better of a feast than the cook. - Aristotle
 
 <!-- QUOTE-END -->
 
