@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The guest will judge better of a feast than the cook. - Aristotle
+Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. - John Wooden
 
 <!-- QUOTE-END -->
 
