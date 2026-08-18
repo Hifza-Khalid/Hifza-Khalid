@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I am not what happened to me, I am what I choose to become. - Carl Jung
+To every action there is always opposed an equal reaction. - Isaac Newton
 
 <!-- QUOTE-END -->
 
