@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-To every action there is always opposed an equal reaction. - Isaac Newton
+There is no limit to the amount of good you can do if you don't care who gets the credit. - Ronald Reagan
 
 <!-- QUOTE-END -->
 
