@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There is no limit to the amount of good you can do if you don't care who gets the credit. - Ronald Reagan
+Faithless is he that says farewell when the road darkens. - J.R.R. Tolkien
 
 <!-- QUOTE-END -->
 
