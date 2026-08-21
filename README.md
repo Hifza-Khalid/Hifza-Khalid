@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Faithless is he that says farewell when the road darkens. - J.R.R. Tolkien
+If I persist long enough I will win. - Og Mandino
 
 <!-- QUOTE-END -->
 
