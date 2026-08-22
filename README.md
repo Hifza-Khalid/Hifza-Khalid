@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If I persist long enough I will win. - Og Mandino
+Don't be afraid that you do not know something. Be afraid of not learning about it. - Zen Proverb
 
 <!-- QUOTE-END -->
 
