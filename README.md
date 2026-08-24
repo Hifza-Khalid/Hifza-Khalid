@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Turn your face to the sun, as flowers know how to do. - Ming-Dao Deng
+Every moment of happiness requires a great amount of Ignorance - Honore de Balzac
 
 <!-- QUOTE-END -->
 
