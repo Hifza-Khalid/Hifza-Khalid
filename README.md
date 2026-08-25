@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Every moment of happiness requires a great amount of Ignorance - Honore de Balzac
+Don't hate the player. Change the game. - Steve Harvey
 
 <!-- QUOTE-END -->
 
