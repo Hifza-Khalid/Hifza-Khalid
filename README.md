@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Don't hate the player. Change the game. - Steve Harvey
+When I let go of what I am, I become what I might be. - Lao Tzu
 
 <!-- QUOTE-END -->
 
