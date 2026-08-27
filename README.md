@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-When I let go of what I am, I become what I might be. - Lao Tzu
+A man is literally what he thinks. - James Allen
 
 <!-- QUOTE-END -->
 
