@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A man is literally what he thinks. - James Allen
+The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work. - Oprah Winfrey
 
 <!-- QUOTE-END -->
 
