@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work. - Oprah Winfrey
+The happiest people in the world are those who feel absolutely terrific about themselves. - Brian Tracy
 
 <!-- QUOTE-END -->
 
