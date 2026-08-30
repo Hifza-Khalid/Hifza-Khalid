@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The happiest people in the world are those who feel absolutely terrific about themselves. - Brian Tracy
+Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity. - Charles Spurgeon
 
 <!-- QUOTE-END -->
 
