@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Keep your face always toward the sunshine -  shadows will fall behind you. - Walt Whitman
+People become attached to their burdens sometimes more than the burdens are attached to them. - George Bernard Shaw
 
 <!-- QUOTE-END -->
 
