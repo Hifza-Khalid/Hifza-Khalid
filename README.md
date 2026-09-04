@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Inner peace is when you realize that, in the end, nothing matters. - Maxime Lagace
+Engage in those actions and thoughts that nurture the good qualities you want to have. - Paramahansa Yogananda
 
 <!-- QUOTE-END -->
 
