@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Engage in those actions and thoughts that nurture the good qualities you want to have. - Paramahansa Yogananda
+Heart is what separates the good from the great. - Michael Jordan
 
 <!-- QUOTE-END -->
 
