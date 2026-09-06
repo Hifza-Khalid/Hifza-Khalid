@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Heart is what separates the good from the great. - Michael Jordan
+The wise speak only of what they know. - J.R.R. Tolkien
 
 <!-- QUOTE-END -->
 
