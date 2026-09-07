@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The wise speak only of what they know. - J.R.R. Tolkien
+The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now! - Tony Robbins
 
 <!-- QUOTE-END -->
 
