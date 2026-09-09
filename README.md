@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Whatever you do in life, surround yourself with smart people who'll argue with you. - John Wooden
+We're responsible for everything that happens to us. - Yanni
 
 <!-- QUOTE-END -->
 
