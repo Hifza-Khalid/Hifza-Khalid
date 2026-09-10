@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-We're responsible for everything that happens to us. - Yanni
+Each day your life grows a day shorter. Make every move count. - Ming-Dao Deng
 
 <!-- QUOTE-END -->
 
