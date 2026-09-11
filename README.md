@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Each day your life grows a day shorter. Make every move count. - Ming-Dao Deng
+Magic is believing in yourself, if you can do that, you can make anything happen. - Johann Wolfgang von Goethe
 
 <!-- QUOTE-END -->
 
