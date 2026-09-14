@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Dreams are the royal road to the unconscious. - Sigmund Freud
+Just living is not enough... one must have sunshine, freedom, and a little flower. - Hans Christian Andersen
 
 <!-- QUOTE-END -->
 
