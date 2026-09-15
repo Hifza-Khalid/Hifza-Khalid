@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Just living is not enough... one must have sunshine, freedom, and a little flower. - Hans Christian Andersen
+Freedom is the open window through which pours the sunlight of the human spirit and human dignity. - Herbert Hoover
 
 <!-- QUOTE-END -->
 
