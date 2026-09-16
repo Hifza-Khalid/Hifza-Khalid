@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Freedom is the open window through which pours the sunlight of the human spirit and human dignity. - Herbert Hoover
+When you are tough on yourself, life is going to be infinitely easier on you. - Zig Ziglar
 
 <!-- QUOTE-END -->
 
