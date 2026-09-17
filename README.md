@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-When you are tough on yourself, life is going to be infinitely easier on you. - Zig Ziglar
+The less people know, the more stubbornly they know it. - Osho
 
 <!-- QUOTE-END -->
 
