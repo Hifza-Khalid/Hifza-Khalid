@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Act the way you want to be and soon you'll be the way you act. - Les Brown
+Chase your passion, not your pension. - Denis Waitley
 
 <!-- QUOTE-END -->
 
