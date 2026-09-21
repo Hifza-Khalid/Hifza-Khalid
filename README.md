@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Chase your passion, not your pension. - Denis Waitley
+Love your enemies, for they tell you your faults. - Benjamin Franklin
 
 <!-- QUOTE-END -->
 
