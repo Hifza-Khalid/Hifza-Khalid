@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Love your enemies, for they tell you your faults. - Benjamin Franklin
+Be brave to stand for what you believe in even if you stand alone. - Roy T. Bennett
 
 <!-- QUOTE-END -->
 
