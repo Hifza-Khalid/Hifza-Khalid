@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Be brave to stand for what you believe in even if you stand alone. - Roy T. Bennett
+Prefer to be defeated in the presence of the wise than to excel among fools. - Dogen
 
 <!-- QUOTE-END -->
 
