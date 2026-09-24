@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Prefer to be defeated in the presence of the wise than to excel among fools. - Dogen
+Wherever you are, and whatever you do, be in love. - Rumi
 
 <!-- QUOTE-END -->
 
