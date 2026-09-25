@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Wherever you are, and whatever you do, be in love. - Rumi
+The more you take responsibility for your past and present, the more you are able to create the future you seek. - Celestine Chua
 
 <!-- QUOTE-END -->
 
