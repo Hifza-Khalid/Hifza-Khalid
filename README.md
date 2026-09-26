@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The more you take responsibility for your past and present, the more you are able to create the future you seek. - Celestine Chua
+Always keep your eyes open. Keep watching. Because whatever you see can inspire you. - Grace Coddington
 
 <!-- QUOTE-END -->
 
