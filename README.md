@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Always keep your eyes open. Keep watching. Because whatever you see can inspire you. - Grace Coddington
+Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. - Buddha
 
 <!-- QUOTE-END -->
 
