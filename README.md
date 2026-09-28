@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. - Buddha
+Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. - Roy T. Bennett
 
 <!-- QUOTE-END -->
 
