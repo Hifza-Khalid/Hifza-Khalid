@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. - Roy T. Bennett
+Passion is energy. Feel the power that comes from focusing on what excites you. - Oprah Winfrey
 
 <!-- QUOTE-END -->
 
