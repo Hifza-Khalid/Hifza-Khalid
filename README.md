@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Passion is energy. Feel the power that comes from focusing on what excites you. - Oprah Winfrey
+Projecting your mind into a successful situation is the most powerful means to achieve goals. - Estee Lauder
 
 <!-- QUOTE-END -->
 
