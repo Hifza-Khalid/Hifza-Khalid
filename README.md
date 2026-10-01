@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Projecting your mind into a successful situation is the most powerful means to achieve goals. - Estee Lauder
+Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place. - Richard Bach
 
 <!-- QUOTE-END -->
 
