@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place. - Richard Bach
+There is only the one reality, neither to be realized nor attained. - Huang Po
 
 <!-- QUOTE-END -->
 
