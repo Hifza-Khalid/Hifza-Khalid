@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-It is dangerous to be right in matters on which the established authorities are wrong. - Voltaire
+He suffers more than necessary, who suffers before it is necessary. - Seneca
 
 <!-- QUOTE-END -->
 
