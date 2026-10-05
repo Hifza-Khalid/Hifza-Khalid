@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-He suffers more than necessary, who suffers before it is necessary. - Seneca
+The only way out is through. - Robert Frost
 
 <!-- QUOTE-END -->
 
