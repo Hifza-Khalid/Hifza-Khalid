@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The only way out is through. - Robert Frost
+There's more to life than being a passenger. - Amelia Earhart
 
 <!-- QUOTE-END -->
 
