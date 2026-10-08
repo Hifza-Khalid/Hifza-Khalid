@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-I have lost friends, some by death...others by sheer inability to cross the street. - Virginia Woolf
+Life is either a daring adventure, or nothing. - Helen Keller
 
 <!-- QUOTE-END -->
 
