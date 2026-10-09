@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Life is either a daring adventure, or nothing. - Helen Keller
+There is no value in anything until it is finished. - Genghis Khan
 
 <!-- QUOTE-END -->
 
