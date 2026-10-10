@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There is no value in anything until it is finished. - Genghis Khan
+Whenever you find yourself on the side of the majority, it is time to reform. - Mark Twain
 
 <!-- QUOTE-END -->
 
