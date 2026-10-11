@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Whenever you find yourself on the side of the majority, it is time to reform. - Mark Twain
+Perseverance and spirit have done wonders in all ages. - George Washington
 
 <!-- QUOTE-END -->
 
