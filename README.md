@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Perseverance and spirit have done wonders in all ages. - George Washington
+There are three classes of people: those who see. Those who see when they are shown. Those who do not see. - Leonardo da Vinci
 
 <!-- QUOTE-END -->
 
