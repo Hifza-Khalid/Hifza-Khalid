@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There are three classes of people: those who see. Those who see when they are shown. Those who do not see. - Leonardo da Vinci
+Being a good example is the best form of service. - Sathya Sai Baba
 
 <!-- QUOTE-END -->
 
