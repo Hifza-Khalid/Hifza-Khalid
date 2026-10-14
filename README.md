@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Being a good example is the best form of service. - Sathya Sai Baba
+The hardest arithmetic to master is that which enables us to count our blessings. - Eric Hoffer
 
 <!-- QUOTE-END -->
 
