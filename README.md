@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The hardest arithmetic to master is that which enables us to count our blessings. - Eric Hoffer
+Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. - Orison Swett Marden
 
 <!-- QUOTE-END -->
 
