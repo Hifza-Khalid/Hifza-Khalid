@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. - Orison Swett Marden
+Perseverance and spirit have done wonders in all ages. - George Washington
 
 <!-- QUOTE-END -->
 
