@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Perseverance and spirit have done wonders in all ages. - George Washington
+Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold. - Elon Musk
 
 <!-- QUOTE-END -->
 
