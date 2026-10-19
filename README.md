@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Be where your enemy is not. - Sun Tzu
+A Rolling Stone Gathers No Moss. - Publilius Syrus
 
 <!-- QUOTE-END -->
 
