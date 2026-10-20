@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A Rolling Stone Gathers No Moss. - Publilius Syrus
+There is no sadder sight than a young pessimist. - Mark Twain
 
 <!-- QUOTE-END -->
 
