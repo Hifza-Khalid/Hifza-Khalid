@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-There is no sadder sight than a young pessimist. - Mark Twain
+A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way. - Osho
 
 <!-- QUOTE-END -->
 
