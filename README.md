@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way. - Osho
+Faults are yours to fix, not to curse. - Colin Powell
 
 <!-- QUOTE-END -->
 
