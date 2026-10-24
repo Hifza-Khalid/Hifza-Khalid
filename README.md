@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Be kind whenever possible. It is always possible. - Dalai Lama
+Happiness is only real, when shared. - Christopher McCandless
 
 <!-- QUOTE-END -->
 
