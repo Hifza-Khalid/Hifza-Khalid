@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Happiness is only real, when shared. - Christopher McCandless
+Find your Light; They can't love you if they can't see you. - Bette Midler
 
 <!-- QUOTE-END -->
 
