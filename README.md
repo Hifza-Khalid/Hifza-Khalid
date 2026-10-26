@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Find your Light; They can't love you if they can't see you. - Bette Midler
+You cannot swim for new horizons until you have courage to lose sight of the shore. - William Faulkner
 
 <!-- QUOTE-END -->
 
