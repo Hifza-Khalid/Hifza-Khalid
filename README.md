@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-You cannot swim for new horizons until you have courage to lose sight of the shore. - William Faulkner
+Too many of us are not living our dreams because we are living our fears. - Les Brown
 
 <!-- QUOTE-END -->
 
