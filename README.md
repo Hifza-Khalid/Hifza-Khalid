@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Too many of us are not living our dreams because we are living our fears. - Les Brown
+Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim. - John D. Rockefeller
 
 <!-- QUOTE-END -->
 
