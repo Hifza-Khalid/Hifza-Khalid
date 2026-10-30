@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-No matter what happens, always be yourself. - Dale Carnegie
+Only when I fall do I get up again. - Vincent van Gogh
 
 <!-- QUOTE-END -->
 
