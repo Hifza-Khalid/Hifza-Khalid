@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Only when I fall do I get up again. - Vincent van Gogh
+The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. - Henry Ward Beecher
 
 <!-- QUOTE-END -->
 
