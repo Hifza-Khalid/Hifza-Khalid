@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. - Henry Ward Beecher
+Great ones are willing to get burned time and again as they sharpen their swords in the fire. - Josh Waitzkin
 
 <!-- QUOTE-END -->
 
