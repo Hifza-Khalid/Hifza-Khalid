@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-Great ones are willing to get burned time and again as they sharpen their swords in the fire. - Josh Waitzkin
+The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it. - Colin R. Davis
 
 <!-- QUOTE-END -->
 
