@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it. - Colin R. Davis
+If you want to see things just as they are, then you yourself must practice just as you are. - Dogen
 
 <!-- QUOTE-END -->
 
