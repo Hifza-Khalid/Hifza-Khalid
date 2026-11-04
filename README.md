@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-If you want to see things just as they are, then you yourself must practice just as you are. - Dogen
+A good stance and posture reflect a proper state of mind. - Morihei Ueshiba
 
 <!-- QUOTE-END -->
 
