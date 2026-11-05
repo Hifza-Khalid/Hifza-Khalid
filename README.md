@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-A good stance and posture reflect a proper state of mind. - Morihei Ueshiba
+All know that the drop merges into the ocean, but few know that the ocean merges into the drop. - Kabir
 
 <!-- QUOTE-END -->
 
