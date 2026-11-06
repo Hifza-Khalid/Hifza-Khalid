@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-All know that the drop merges into the ocean, but few know that the ocean merges into the drop. - Kabir
+The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you. - Sonia Ricotti
 
 <!-- QUOTE-END -->
 
