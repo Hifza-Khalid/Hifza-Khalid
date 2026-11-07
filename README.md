@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hifza-Khalid/C-Projects/main/Github_Banner.gif" alt="Github Banner">
+  <img src="https://github.com/Hifza-Khalid/Hifza-Khalid/blob/main/Hifza_banner.jfif" alt="Github Banner">
 </p>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">,I'm Hifza Khalid</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Frontend+Developer;Web+Technologies+Expert;UI/UX+Designer+;React+Developer;Machine+Learning+Enthusiast;Always+learning+new+tech!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF8C42&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+Engineer;Full+Stack+Developer;Building+Intelligent+Applications;Turning+Ideas+Into+Code;Learning+%7C+Building+%7C+Growing" alt="Typing SVG">
 </p>
 
 ---
-<h3 align="center"> 🚀 About Me </h3>
+<h3 align="center">🚀 About Me</h3>
+
 <p align="center">
-I'm a passionate developer with a focus on frontend technologies, web development, and UI/UX design. With experience in building modern web applications, I always seek to learn and implement new tools and technologies. I'm constantly improving my skills to create intuitive and user-friendly web experiences. I thrive on solving real-world problems.
+  Software Engineer passionate about building full-stack applications and exploring Artificial Intelligence. 
+  I enjoy turning ideas into practical solutions, learning emerging technologies, and solving real-world problems through code.
 </p>
 
 ---
@@ -20,12 +22,11 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
        alt="Coding" width="260" height="230" 
        style="border-radius: 50%; margin: 8px; object-fit: cover;">
   <ul>
-    <li><b>🔭 Currently Working On:</b> AI powered Interviewing System </li>
-    <li><b>👯 Open to Collaborate:</b> Innovative Web Development Projects 🌐</li>
-    <li><b>🤝 Seeking Support With:</b> Scaling Impactful Tech Solutions 🚀</li>
-    <li><b>💬 Ask Me About:</b> Web Technologies, UI/UX Design, Frontend Frameworks 🛠️</li>
-    <li><b>📫 Reach Me At:</b> hifzaofpk@gmail.com</li>
-    <li><b>⚡ Fun Fact:</b> Every line of code is a brushstroke creating a masterpiece! 🎨</li>
+<li><b>Currently Building:</b> Agentic AI Applications & Intelligent AI Agents </li>
+<li><b>Exploring:</b> LLMs, RAG, AI Agents & MLOps</li>
+<li><b>Open to Collaborate:</b> Full Stack & AI Projects</li>
+<li><b>Ask Me About:</b> Software Engineering, Web Development & AI/ML</li>
+<li><b>Reach Me At:</b> <a href="mailto:hifzaofpk@gmail.com">hifzaofpk@gmail.com</a></li>
   </ul>
 </div>
 
@@ -80,94 +81,60 @@ Make your stand today. On this spot. On this day. - Ming-Dao Deng
 
 <h3 align="center"> 🔧 Tools I Use </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,eclipse,ps,ai,blender" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,eclipse,ps,ai,blender,git,github,postman,docker,linux,azure,aws,mongodb,mysql,postgres,sqlite,redis,figma,notion,vercel,netlify,stackoverflow&perline=8" alt="tools" />
 </p>
 <hr>
 
-<h3 align="center"> 
-  <img src="https://media0.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=5a38a5a2pzj9k3nrm3rm52km7k6dt19kjoyahykzf71a4g2r&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/>
-  Skills & Technologies 
-</h3>
 
+<h2>Skills & Technologies</h2>
 
-</div>
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="JavaScript" width="48" height="48" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Python" width="48" height="48" />
-      <br>REST
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-      <br>MySQL
+    <td width="25%"><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" /></a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" /></a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" /></a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" /></a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48" /></a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="48" height="48" /></a>
-      <br>Tailwind CSS
+    <td><b>Frontend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48" /></a>
-      <br>React
+    <td><b>Backend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi" />
     </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" height="48" /></a>
-      <br>Next.js
+  </tr>
+  <tr>
+    <td><b>AI / Machine Learning</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda" />
     </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL" width="48" height="48" /></a>
-      <br>SQL
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" />
     </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" /></a>
-      <br>MongoDB
+  </tr>
+  <tr>
+    <td><b>MLOps & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,azure,aws" />
     </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="48" height="48" /></a>
-      <br>MariaDB
+  </tr>
+  <tr>
+    <td><b>Data Science & Workflow</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jupyter,anaconda,python" />
     </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /></a>
-      <br>Linux
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,postman,figma,ps,ai,blender,notion,vercel,netlify" />
     </td>
   </tr>
 </table>
@@ -198,7 +165,7 @@ Make your stand today. On this spot. On this day. - Ming-Dao Deng
     </tr>
     <tr>
       <td><strong>Technical Writing & Knowledge Base</strong></td>
-      <td>⭐⭐⭐☆☆</td>
+      <td>⭐⭐⭐⭐☆</td>
     </tr>
     <tr>
       <td><strong>UML & System Diagrams</strong></td>
@@ -215,7 +182,7 @@ Make your stand today. On this spot. On this day. - Ming-Dao Deng
     </tr>
     <tr>
       <td><strong>API Documentation & OpenAPI Standards</strong></td>
-      <td>⭐⭐☆☆☆</td>
+      <td>⭐⭐⭐☆☆</td>
     </tr>
     <tr>
       <td><strong>Agile Documentation & Confluence</strong></td>
