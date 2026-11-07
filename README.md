@@ -32,21 +32,21 @@ I'm a passionate developer with a focus on frontend technologies, web developmen
 </div>
 
 ---
-# 📄 Blog Posts
+<div align="center">
 
-Welcome to my tech blog! Here, you'll find insightful articles on a variety of topics related to technology, programming, AI, and more.
-<!-- BLOG-POST-LIST:START -->
-- Coming soon... Stay tuned for insightful tech blogs!  
+<table>
+<tr>
+<td width="65%" valign="middle" style="border: none;">
 
-<p>
-  <a href="https://techinsightswithhifza.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Tech%20Insights-blue?logo=book&logoColor=white" alt="Visit my Blog">
-  </a>
-</p>
-<!-- BLOG-POST-LIST:END -->
+<h3>✍️ Tech Insights with Hifza</h3>
 
+Welcome to my tech blog! Here, you'll find insightful articles on technology, programming, AI, and more.
 
+- Coming soon... Stay tuned for insightful tech blogs!
 
+<a href="https://techinsightswithhifza.blogspot.com/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Blog-Tech%20Insights-blue?logo=book&logoColor=white" />
+</a>
 
 ### 📜 Daily Quote
 
@@ -55,6 +55,26 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 Make your stand today. On this spot. On this day. - Ming-Dao Deng
 
 <!-- QUOTE-END -->
+
+</td>
+
+<td width="35%" align="center" valign="middle" style="border: none;">
+
+<img src="koi/koi.gif" width="220" alt="Hifza's Fish"/>
+
+<br/>
+
+<b>🐟 Hifza's Fish</b>
+
+<br/>
+
+<sub>Redrawn every night from my GitHub activity</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
