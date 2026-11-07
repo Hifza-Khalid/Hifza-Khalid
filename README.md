@@ -52,7 +52,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on a variety of t
 
 <!-- QUOTE-START -->
 
-The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you. - Sonia Ricotti
+Make your stand today. On this spot. On this day. - Ming-Dao Deng
 
 <!-- QUOTE-END -->
 
