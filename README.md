@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-Make your stand today. On this spot. On this day. - Ming-Dao Deng
+You are what you do, not what you say you'll do. - Carl Jung
 
 <!-- QUOTE-END -->
 
