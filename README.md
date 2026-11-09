@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-You are what you do, not what you say you'll do. - Carl Jung
+Being an intellectual creates a lot of questions and no answers. - David Brinkley
 
 <!-- QUOTE-END -->
 
