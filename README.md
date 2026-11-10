@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-Being an intellectual creates a lot of questions and no answers. - David Brinkley
+The only place where success comes before work is in the dictionary. - Vidal Sassoon
 
 <!-- QUOTE-END -->
 
