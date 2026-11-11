@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-The only place where success comes before work is in the dictionary. - Vidal Sassoon
+Happiness is the meaning and the purpose of life, the whole aim and end of human existence. - Aristotle
 
 <!-- QUOTE-END -->
 
