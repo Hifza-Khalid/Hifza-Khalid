@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-Happiness is the meaning and the purpose of life, the whole aim and end of human existence. - Aristotle
+It is better to light a single candle than to curse the darkness. - Eleanor Roosevelt
 
 <!-- QUOTE-END -->
 
