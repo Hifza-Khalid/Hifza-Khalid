@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-It is better to light a single candle than to curse the darkness. - Eleanor Roosevelt
+Your success and happiness lie in you. - Helen Keller
 
 <!-- QUOTE-END -->
 
