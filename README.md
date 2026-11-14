@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-Your success and happiness lie in you. - Helen Keller
+We suffer more often in imagination than in reality. - Seneca
 
 <!-- QUOTE-END -->
 
