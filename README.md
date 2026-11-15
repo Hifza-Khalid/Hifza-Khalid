@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-We suffer more often in imagination than in reality. - Seneca
+Friendship is like money, easier made than kept. - Samuel Butler
 
 <!-- QUOTE-END -->
 
