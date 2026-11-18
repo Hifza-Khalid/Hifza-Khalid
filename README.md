@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-It is during our darkest moments that we must focus to see the light. - Aristotle
+Meditate. It won't be fun but it will surface what you need to deal with. - Naval Ravikant
 
 <!-- QUOTE-END -->
 
