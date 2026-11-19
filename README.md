@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-Meditate. It won't be fun but it will surface what you need to deal with. - Naval Ravikant
+When you reach the top of the mountain, keep climbing. - Zen Proverb
 
 <!-- QUOTE-END -->
 
