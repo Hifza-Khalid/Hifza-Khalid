@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-When you reach the top of the mountain, keep climbing. - Zen Proverb
+The best answer to anger is silence. - Marcus Aurelius
 
 <!-- QUOTE-END -->
 
