@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-The best answer to anger is silence. - Marcus Aurelius
+You do not read a book for the book's sake, but for your own. - Earl Nightingale
 
 <!-- QUOTE-END -->
 
