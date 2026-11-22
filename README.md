@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-You do not read a book for the book's sake, but for your own. - Earl Nightingale
+In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
 
 <!-- QUOTE-END -->
 
