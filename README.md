@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
+To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. - Elvis Presley
 
 <!-- QUOTE-END -->
 
