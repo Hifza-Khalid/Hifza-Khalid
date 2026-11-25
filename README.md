@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. - Ronald Reagan
+Just because something isn't a lie does not mean that it isn't deceptive. - Criss Jami
 
 <!-- QUOTE-END -->
 
