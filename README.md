@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-Just because something isn't a lie does not mean that it isn't deceptive. - Criss Jami
+Death is not an ending. It is a transformation. - Ming-Dao Deng
 
 <!-- QUOTE-END -->
 
