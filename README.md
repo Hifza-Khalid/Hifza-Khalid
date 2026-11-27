@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-Death is not an ending. It is a transformation. - Ming-Dao Deng
+To bear trials with a calm mind robs misfortune of its strength and burden. - Seneca
 
 <!-- QUOTE-END -->
 
