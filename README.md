@@ -53,7 +53,7 @@ Welcome to my tech blog! Here, you'll find insightful articles on technology, pr
 
 <!-- QUOTE-START -->
 
-To bear trials with a calm mind robs misfortune of its strength and burden. - Seneca
+Living life in style also means living a life of balance. - Jim Rohn
 
 <!-- QUOTE-END -->
 
